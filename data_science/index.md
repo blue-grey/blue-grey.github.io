@@ -10,7 +10,7 @@ title: Links
   - Instagram NLP too??
 - [ ] Image project
   - [ ] Create own Instagram dataset for deep learning. Example: https://github.com/rememberlenny/streetart-notstreetart, tutorial https://blog.floydhub.com/instagram-street-art/
-- [ ] Time series analysis
+- [ ] Time series analysis. Use: https://www.ethanrosenthal.com/2018/03/22/time-series-for-scikit-learn-people-part2/
 - [ ] A/B testing/hypothesis testing
 - [ ] Visualization
   - [ ] MoMA
