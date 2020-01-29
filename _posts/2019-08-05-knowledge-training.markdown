@@ -1,0 +1,17 @@
+---
+layout: post
+title:  knowledge training
+date:   2019-08-04=5 00:30:40 -0400
+categories:
+---
+
+Cowen's daily practice
+
+[[link]](https://marginalrevolution.com/marginalrevolution/2019/07/how-i-practice-at-what-i-do.html)
+
+
+**Don't feel obliged to take advice so easily**
+
+Be critical of passive expertise, or 'older and wiser'. It's just not true.
+
+>The marginal cost of giving advice is way lower than of taking it, even if, on the whole, most people should take more small risks and therefore follow more, possibly bad, advice.
