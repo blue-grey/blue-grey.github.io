@@ -8,7 +8,7 @@ description: A Jekyll Theme
 google_verification: null
 
 baseurl: "/blog"
-url: "91a3b0.github.io"
+url: "blue-grey.github.io"
 
 # File management
 include: [".htaccess"]
