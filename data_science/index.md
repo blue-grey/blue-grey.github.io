@@ -37,6 +37,16 @@ Great examples (and custom datasets):
 
 ## How to write up a project?
 - Using R and SQL to Advocate for Harlem Housing Repairs [[link]](https://towardsdatascience.com/using-r-and-sql-to-advocate-for-harlem-housing-repairs-8b7557644a63)
+- Bayesian Product Ranking at Wayfair [[link]](https://tech.wayfair.com/data-science/2020/01/bayesian-product-ranking-at-wayfair/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_269)
+- List of great case studies [[link]](https://twitter.com/chipro/status/1188650188392390656)
+  - Using Machine Learning to Predict Value of Homes on AirBnB [[link]](https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d)
+  - Using Machine Learning to Improve Streaming Quality at Netflix [[link]](https://netflixtechblog.com/using-machine-learning-to-improve-streaming-quality-at-netflix-9651263ef09f)
+  - From shallow to deep learning in fraud [[link]](https://eng.lyft.com/from-shallow-to-deep-learning-in-fraud-9dafcbcef743)
+  - Space, Time and Groceries [[link]](https://tech.instacart.com/space-time-and-groceries-a315925acf3a)
+  - How we grew from 0 to 4 million women on our fashion app, with a vertical machine learning approach [[link]](https://medium.com/hackernoon/how-we-grew-from-0-to-4-million-women-on-our-fashion-app-with-a-vertical-machine-learning-approach-f8b7fc0a89d7)
+  - Machine Learning-Powered Search Ranking of Airbnb Experiences [[link]](https://medium.com/airbnb-engineering/machine-learning-powered-search-ranking-of-airbnb-experiences-110b4b1a0789)
+  - Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning [[link]](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
+
 
 
 ## Open Data
@@ -328,6 +338,8 @@ Make a Readme [[link]](https://www.makeareadme.com/)
 - Use "from," "by," and "to" in resumes [[link]](https://www.inc.com/bill-murphy-jr/want-to-hire-best-look-for-these-3-key-words-on-every-single-resume.html)
 - DS interview study guide [[link]](https://medium.com/better-programming/the-data-science-interview-study-guide-c3824cb76c2e)
 - Example DS cover letter [[link]](https://www.dropbox.com/s/jw8x5qaww4jol91/Cover_Letter_Palantir.pdf?dl=0)
+- Example DS resume [[link]](https://ilhamfp.com/files/ilham_firdausi_putra_cv.pdf)
+- Emil W's story as a self-taught AI researcher [[link]](https://blog.floydhub.com/emils-story-as-a-self-taught-ai-researcher/)
 
 Be able to connect the machine learning model to the business impact. How to measure impact? Get familiar with key business metrics (revenue, profit, cost). [[link]](https://towardsdatascience.com/3-strategies-to-guarantee-a-data-science-job-with-no-experience-68d85b345f21)
 
