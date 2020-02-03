@@ -108,28 +108,18 @@ Towards Automated Machine Learning: Evaluation and Comparison of AutoML Approach
 -
 
 ## SQL
-
-One SQL to Rule Them All [[paper]](https://arxiv.org/abs/1905.12133)]
-
-SQL Style Guide [[link]](https://github.com/mattm/sql-style-guide)
-
-Example SQL screener question [[link]](https://mattmazur.com/2018/11/12/analyzing-89-responses-to-a-sql-screener-question-for-a-senior-data-analyst-position/)
-
-Learning SQL 201: Optimizing Queries, Regardless of Platform [[link]](https://towardsdatascience.com/learning-sql-201-optimizing-queries-regardless-of-platform-918a3af9c8b1)
-
-A Cool SQL Problem: Avoiding For-Loops [[link]](https://ryxcommar.com/2019/08/05/a-cool-sql-problem-avoiding-for-loops/)
-
-SQL interviews at the NYT [[link]](https://open.nytimes.com/a-window-into-our-sql-interviews-dcc9a8f756d8)
-
-SQL live coding [[link]](https://twitter.com/BecomingDataSci/status/1178184449890095111)
-
-Loooong SQL queries [[link]](https://twitter.com/b0rk/status/1175068822107279362)
-
-Bootstrapping is the most intuitive way to teach inference in introductory stats courses. [[link]](https://twitter.com/grant_mcdermott/status/1175576565863702528)
-
-How Postgres Makes Transactions Atomic [[link]](https://brandur.org/postgres-atomicity)
-
-SQL query order [[link]](https://twitter.com/b0rk/status/1179449535938076673)
+- Udacity SQL course [[link]](https://www.udacity.com/course/sql-for-data-analysis--ud198)
+- One SQL to Rule Them All [[paper]](https://arxiv.org/abs/1905.12133)]
+- SQL Style Guide [[link]](https://github.com/mattm/sql-style-guide)
+- Example SQL screener question [[link]](https://mattmazur.com/2018/11/12/analyzing-89-responses-to-a-sql-screener-question-for-a-senior-data-analyst-position/)
+- Learning SQL 201: Optimizing Queries, Regardless of Platform [[link]](https://towardsdatascience.com/learning-sql-201-optimizing-queries-regardless-of-platform-918a3af9c8b1)
+- A Cool SQL Problem: Avoiding For-Loops [[link]](https://ryxcommar.com/2019/08/05/a-cool-sql-problem-avoiding-for-loops/)
+- SQL interviews at the NYT [[link]](https://open.nytimes.com/a-window-into-our-sql-interviews-dcc9a8f756d8)
+- SQL live coding [[link]](https://twitter.com/BecomingDataSci/status/1178184449890095111)
+- Loooong SQL queries [[link]](https://twitter.com/b0rk/status/1175068822107279362)
+- Bootstrapping is the most intuitive way to teach inference in introductory stats courses. [[link]](https://twitter.com/grant_mcdermott/status/1175576565863702528)
+- How Postgres Makes Transactions Atomic [[link]](https://brandur.org/postgres-atomicity)
+- SQL query order [[link]](https://twitter.com/b0rk/status/1179449535938076673)
 
 ## Modeling
 >A statistical model is a mathematical model which is modified or trained by the input of data points. Statistical models are often but not always probabilistic. Where the distinction is important we will be careful not to just say "statistical" but to use the following component terms:
@@ -312,26 +302,18 @@ Ranked and reviewed ML courses [[link]](https://twitter.com/chipro/status/115777
 100 numpy exercises [[link]](https://github.com/rougier/numpy-100)
 
 ## Spatial Data science
-
+- Spatial analysis tutorials in R [[link]](https://spatialanalysis.github.io/tutorials/)
 Reproducible assignments with R-markdown [[link]](https://www.r-spatial.org/r/2017/04/13/assignments.html)
-
-Spatial Dependencies [[link]](https://twitter.com/robinlovelace/status/1169200978245165059)
-
-Introduction to Spatial Data Programming with R (BGU) [[link]](http://132.72.155.230:3838/r/vectors.html)
-
-OpenGeoHub2019 [[link]](https://github.com/HannaMeyer/OpenGeoHub_2019/blob/master/slides/Practice_Hanna.pdf)
-
-Edzer Pebesma [[link]](https://github.com/edzer)
-
-The Bartlett Centre for Advanced Spatial Analysis [[link]](https://www.ucl.ac.uk/bartlett/casa/)
-
-rspatial.org [[link]](https://rspatial.org/)
-
-Applied Spatial Data Analysis with R [[link]](https://asdar-book.org/)
+- Edzer Pebesma (SDSC 2019 workshop) [[link]](https://github.com/edzer)
+- Spatial Dependencies [[link]](https://twitter.com/robinlovelace/status/1169200978245165059)
+- Introduction to Spatial Data Programming with R (BGU) [[link]](http://132.72.155.230:3838/r/vectors.html)
+- OpenGeoHub2019 [[link]](https://github.com/HannaMeyer/OpenGeoHub_2019/blob/master/slides/Practice_Hanna.pdf)
+- The Bartlett Centre for Advanced Spatial Analysis [[link]](https://www.ucl.ac.uk/bartlett/casa/rspatial.org [[link]](https://rspatial.org/)
+- Applied Spatial Data Analysis with R [[link]](https://asdar-book.org/)
 
 ## Statistics
 - Caltech's probability distribution explorer (with Python code) [[link]](http://bois.caltech.edu/distribution_explorer/)
--
+
 
 ## Documentation
 
