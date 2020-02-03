@@ -47,6 +47,10 @@ Great examples (and custom datasets):
   - Machine Learning-Powered Search Ranking of Airbnb Experiences [[link]](https://medium.com/airbnb-engineering/machine-learning-powered-search-ranking-of-airbnb-experiences-110b4b1a0789)
   - Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning [[link]](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
 
+## Bayesian Hierarchical/Multi-level Modeling
+- How to do Hierarchical Linear Regression in PyMC3 (uses Radon dataset) [[link]](https://twiecki.io/blog/2014/03/17/bayesian-glms-3/)
+- Paper: Analysis of Local Decisions Using Hierarchical Modeling, Applied to Home Radon Measurement and Remediation [[link]](http://www.stat.columbia.edu/~gelman/research/published/lin.pdf)
+- Paper: Understanding the Average Impact of Microcredit Expansions: A Bayesian Hierarchical Analysis of Seven Randomized Experiments[[link]](https://pdfs.semanticscholar.org/add4/5613b77be86a01d51555e4940462ef633942.pdf)
 
 
 ## Open Data
@@ -340,6 +344,7 @@ Make a Readme [[link]](https://www.makeareadme.com/)
 - Example DS cover letter [[link]](https://www.dropbox.com/s/jw8x5qaww4jol91/Cover_Letter_Palantir.pdf?dl=0)
 - Example DS resume [[link]](https://ilhamfp.com/files/ilham_firdausi_putra_cv.pdf)
 - Emil W's story as a self-taught AI researcher [[link]](https://blog.floydhub.com/emils-story-as-a-self-taught-ai-researcher/)
+- Twitter thread on what to learn when transitioning into data science [[link]](https://twitter.com/pip_alise/status/1222689361176813570)
 
 Be able to connect the machine learning model to the business impact. How to measure impact? Get familiar with key business metrics (revenue, profit, cost). [[link]](https://towardsdatascience.com/3-strategies-to-guarantee-a-data-science-job-with-no-experience-68d85b345f21)
 

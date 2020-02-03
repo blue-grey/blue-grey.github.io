@@ -51,7 +51,7 @@ Cloisters, Botanical Garden: urban nature
 - [Odd Fellows](https://www.oddfellowsnyc.com/): intense Thai iced tea ice cream sandwich
 - Patisserie Tomoko: Brooklyn
 - Noguchi Museum cafe
--
+- Pye Boat Noodle: Astoria 
 
 **Do**
 - [Shui](http://zezehotel.com/shui-baths)

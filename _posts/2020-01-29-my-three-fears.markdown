@@ -13,4 +13,4 @@ My top three fears as of today:
 
 Some toxic behaviors I would like to eradicate:
 1. Motivating myself through punishment (it never works)
-2. 
+2.
