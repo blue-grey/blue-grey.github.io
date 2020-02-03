@@ -51,7 +51,18 @@ Cloisters, Botanical Garden: urban nature
 - [Odd Fellows](https://www.oddfellowsnyc.com/): intense Thai iced tea ice cream sandwich
 - Patisserie Tomoko: Brooklyn
 - Noguchi Museum cafe
-- Pye Boat Noodle: Astoria 
+- Pye Boat Noodle: Astoria
+- Diner by her place
+- Shiny Tea on UWS
+
+**Flushing food crawl**
+- Kung fu Xiao long bao  or Shanghai You Garden
+- Corner 28 Duck bao (across New World Mall)
+- New World Mall Food Court (#28)
+- Fang Gourmet Tea
+- Joe’s Steam Rice Roll: “For a Hong Kong treat, get the plain rice rolls with curry fish balls, peanut sauce, and sweet soy sauce.”
+- Soy Bean Chen Flower Shop
+
 
 **Do**
 - [Shui](http://zezehotel.com/shui-baths)
