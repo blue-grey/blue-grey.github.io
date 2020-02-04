@@ -47,6 +47,13 @@ Great examples (and custom datasets):
   - Machine Learning-Powered Search Ranking of Airbnb Experiences [[link]](https://medium.com/airbnb-engineering/machine-learning-powered-search-ranking-of-airbnb-experiences-110b4b1a0789)
   - Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning [[link]](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
 
+## Building a portfolio/website
+- Pin repos with strong work, have descriptive titles and a brief readme (include an image)
+- examples:
+  - [[link1]](https://twitter.com/alyssaxuu/status/1148253489144979456)
+  - went viral [[link2]](https://www.jeffykao.com/)
+  - [[link3]](https://krsmith.github.io/aboutme/)
+
 ## Bayesian Hierarchical/Multi-level Modeling
 - How to do Hierarchical Linear Regression in PyMC3 (uses Radon dataset) [[link]](https://twiecki.io/blog/2014/03/17/bayesian-glms-3/)
 - Paper: Analysis of Local Decisions Using Hierarchical Modeling, Applied to Home Radon Measurement and Remediation [[link]](http://www.stat.columbia.edu/~gelman/research/published/lin.pdf)
@@ -97,6 +104,8 @@ Towards Automated Machine Learning: Evaluation and Comparison of AutoML Approach
 -
 
 ## SQL
+- SQL resources:
+  -
 - Udacity SQL course [[link]](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 - One SQL to Rule Them All [[paper]](https://arxiv.org/abs/1905.12133)]
 - SQL Style Guide [[link]](https://github.com/mattm/sql-style-guide)
@@ -174,7 +183,7 @@ Notify when done [[link]](https://github.com/ShopRunner/jupyter-notify)
 Global labor flow network (Linkedin data) [[link]](https://www.nature.com/articles/s41467-019-11380-w)
 
 ## Flask
-
+- Video walkthrough of how to an ML model with Flask and Heroku (from SharpestMinds) [[link]](https://www.youtube.com/watch?v=OdYpNM05e9w)
 Create An API To Deploy Machine Learning Models Using Flask and Heroku [[link]](https://towardsdatascience.com/create-an-api-to-deploy-machine-learning-models-using-flask-and-heroku-67a011800c50)
 
 HTTP [[link]](https://gumroad.com/l/http-zine)
@@ -184,11 +193,11 @@ HTTP [[link]](https://gumroad.com/l/http-zine)
 How to unit test machine learning code. [[link]](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)
 
 ## Cheatsheets & packages
-
-Matplotlib [[link1]](https://github.com/rougier/matplotlib-cheatsheet)
+- Matplotlib [[link1]](https://github.com/rougier/matplotlib-cheatsheet)
+  - Figures hold axes, axes hold everything else [[link]](https://t.co/9sB9n7y6RB?amp=1)
 - Best guide to using Matplotlib [[link]](https://pbpython.com/effective-matplotlib.html)
-
-econtools: econometric functions and convenient shortcuts for data work with pandas and numpy [[link]](https://github.com/dmsul/econtools)
+- econtools: econometric functions and convenient shortcuts for data work with pandas and numpy [[link]](https://github.com/dmsul/econtools)
+- default export to: pandas to_csv()'s quoting=csv.QUOTE_NONNUMERIC [[link]](https://twitter.com/pybokeh/status/1216312458694053888?s=20)
 
 ## R
 - ACLU: we use the Tidyverse’s dplyr to generate complex SQL code in our data warehouse [[link]](https://medium.com/aclu-tech-analytics/dbplyr-a-path-to-more-inclusive-data-transformations-at-the-aclu-5e6af21f4042)
@@ -230,16 +239,11 @@ How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras
 
 R & Python workflow [[link]](https://towardsdatascience.com/guide-to-r-and-python-in-a-single-jupyter-notebook-ff12532eb3ba)
 
-## Portfolio magic
 
-[[link1]](https://twitter.com/alyssaxuu/status/1148253489144979456)
-
-ex. of project that went viral
-[[link2]](https://www.jeffykao.com/)
-
-[[link3]](https://krsmith.github.io/aboutme/)
 
 ## Machine learning
+- Online book on limitations of interpretable ML methods [[link]](https://compstat-lmu.github.io/iml_methods_limitations/)
+- Optimal ML classification decision boundaries with very helpful animation [[link]](https://mathformachines.com/posts/decision/) [[gifs]](https://github.com/ryanholbrook/decision-boundaries-animations)
 - Building machine learning products: workflow [[link]](https://www.jeremyjordan.me/ml-requirements/)
 
 [[course]](https://sites.google.com/view/marcdeisenroth/teaching/mooc-mathematics-for-machine-learning-pca)
@@ -308,15 +312,30 @@ Reproducible assignments with R-markdown [[link]](https://www.r-spatial.org/r/20
 
 Make a Readme [[link]](https://www.makeareadme.com/)
 
+## Math
+- Solid guide to the math behind PCA [[link]](https://towardsdatascience.com/the-mathematics-behind-principal-component-analysis-fff2d7f4b643)
+
 ## The Job Search...
 - *The* big list of DS interviewing resources [[link]](https://www.conordewey.com/blog/the-big-list-of-data-science-interview-resources/?utm_campaign=The%20Data%20Science%20Roundup&utm_medium=email&utm_source=Revue%20newsletter)
 - ML interview (8k words, case studies, exercises) [[link]](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf?mkt_tok=eyJpIjoiWVdGaU4yTTNNek0xTnpFdyIsInQiOiJKeFwveWRic09uWjl4eW53Y21WTlY4ZHlPTlwvMkRZSXR4TmZ4cXJFXC9pXC9ENjgwWFwvZktUcFlKdFVtK1MrWXIxVzErZzhnU2FGYkhJanRVSSt0bWY1QlRIXC96bUU1NVJqcHB1bjgzcmljVWJRdlZtb1FzQzRnb3hLYjhGcWZLaUdsZSJ9&utm_campaign=The%20Data%20Science%20Roundup&utm_medium=email&utm_source=Revue%20newsletter)
+- Great example of a DS technical + consulting question, with answers [[link]](https://twitter.com/colin_fraser/status/1199519328820850688)
+- Cold emailing: short, clear about who you are, value prop for receiver, specific ask [[thread]](https://twitter.com/sriramk/status/1214278840358359040)
+  - An example email [[link]](https://twitter.com/zebulgar/status/1200216090913071104)
+- Great, actionable twitter thread with resources on preparing for algorithmic interviews [[link]](https://twitter.com/ASpittel/status/1214979863683174400)
+- Questions to ask the interviewer(s):
+  - How do data science decisions get made?
+  - How is performance measured here?
+- Questions to prepare for:
+  - What’s your favorite machine learning algorithm? Alright, can you explain it to me?
+  - You developed a new model that performs better than your old model currently in production. How do you determine whether you should switch the model in production? How do you go about it? Ans: Depends on how much the new model improved (on the biz problem, not necessarily the model metrics); would want to run in shadow mode for a while to test pipeline & dig more into results to verify no bias, bad results in specific categories, etc.
+  -
 - Use "from," "by," and "to" in resumes [[link]](https://www.inc.com/bill-murphy-jr/want-to-hire-best-look-for-these-3-key-words-on-every-single-resume.html)
 - DS interview study guide [[link]](https://medium.com/better-programming/the-data-science-interview-study-guide-c3824cb76c2e)
 - Example DS cover letter [[link]](https://www.dropbox.com/s/jw8x5qaww4jol91/Cover_Letter_Palantir.pdf?dl=0)
 - Example DS resume [[link]](https://ilhamfp.com/files/ilham_firdausi_putra_cv.pdf)
 - Emil W's story as a self-taught AI researcher [[link]](https://blog.floydhub.com/emils-story-as-a-self-taught-ai-researcher/)
 - Twitter thread on what to learn when transitioning into data science [[link]](https://twitter.com/pip_alise/status/1222689361176813570)
+- Explaining periods of unemployment: I took some time off to explore projects and am excited to get back to work.” then *move on*. [[link]](https://twitter.com/patio11/status/1224539020895514625)
 
 Be able to connect the machine learning model to the business impact. How to measure impact? Get familiar with key business metrics (revenue, profit, cost). [[link]](https://towardsdatascience.com/3-strategies-to-guarantee-a-data-science-job-with-no-experience-68d85b345f21)
 
@@ -401,7 +420,7 @@ Bayesian Data Analysis course material [[link]](https://github.com/avehtari/BDA_
 
 Logistic or linear? Estimating causal effects of treatments on binary outcomes using regression analysis [[link]](https://psyarxiv.com/4gmbv)
 
-ogistic regression versus linear probability model [[link]](https://www.alexpghayes.com/blog/consistency-and-the-linear-probability-model/)
+Logistic regression versus linear probability model [[link]](https://www.alexpghayes.com/blog/consistency-and-the-linear-probability-model/)
 
 FIT YOUR MODEL TO FAKE DATA! [[link]](https://twitter.com/polesasunder/status/1169616349313884160)
 
