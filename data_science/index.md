@@ -74,6 +74,8 @@ Great examples (and custom datasets):
 ## Reproducible DS projects
 - cookiecutter Python package for folder setup, virtualenv, and privacy [[link]](https://drivendata.github.io/cookiecutter-data-science/)
 - Coding conventions, documenting, cookiecutter, git, data version control, virtual envs, notebooks [[link]](https://towardsdatascience.com/down-with-technical-debt-clean-python-for-data-scientists-aa7592eff7fc)
+- FB custom built a reproducible pipeline [[link]](https://engineering.fb.com/ml-applications/introducing-fblearner-flow-facebook-s-ai-backbone/)
+- How Uber scaled ML as a service [[link]](http://proceedings.mlr.press/v67/li17a/li17a.pdf)
 
 ## Spark
 - Guide to columnar file formats (parquet, ORC) [[link]](https://blog.matthewrathbone.com/2019/11/21/guide-to-columnar-file-formats.html?utm_campaign=The%20Data%20Science%20Roundup&utm_medium=email&utm_source=Revue%20newsletter)
