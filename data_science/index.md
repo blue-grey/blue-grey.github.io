@@ -5,7 +5,6 @@ title: Links
 ---
 
 ## Portfolio Projects
-
 - [ ] Text-based
   - Instagram NLP too??
 - [ ] Image project
@@ -36,6 +35,7 @@ Great examples (and custom datasets):
 - http://cs229.stanford.edu/proj2019spr/report/75.pdf
 
 ## How to write up a project?
+- Predicting Time to Cook, Arrive, and Deliver at Uber Eats [[link]](https://www.infoq.com/articles/uber-eats-time-predictions/)
 - Using R and SQL to Advocate for Harlem Housing Repairs [[link]](https://towardsdatascience.com/using-r-and-sql-to-advocate-for-harlem-housing-repairs-8b7557644a63)
 - Bayesian Product Ranking at Wayfair [[link]](https://tech.wayfair.com/data-science/2020/01/bayesian-product-ranking-at-wayfair/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_269)
 - List of great case studies [[link]](https://twitter.com/chipro/status/1188650188392390656)
@@ -52,37 +52,24 @@ Great examples (and custom datasets):
 - Paper: Analysis of Local Decisions Using Hierarchical Modeling, Applied to Home Radon Measurement and Remediation [[link]](http://www.stat.columbia.edu/~gelman/research/published/lin.pdf)
 - Paper: Understanding the Average Impact of Microcredit Expansions: A Bayesian Hierarchical Analysis of Seven Randomized Experiments[[link]](https://pdfs.semanticscholar.org/add4/5613b77be86a01d51555e4940462ef633942.pdf)
 
-
 ## Open Data
-
-Jordà-Schularick-Taylor Macrohistory Database [[link]](http://www.macrohistory.net/data/)
-
-Great Github list of public data sets [[link]](https://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets?overrideMobileRedirect=1)
-
-A collection of museum, gallery, library, archive, archaeology and assorted sources for machine-readable data [[link]](http://museum-api.pbworks.com/w/page/21933420/Museum%C2%A0APIs)
+- Jordà-Schularick-Taylor Macrohistory Database [[link]](http://www.macrohistory.net/data/)
+- Great Github list of public data sets [[link]](https://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets?overrideMobileRedirect=1)
+- A collection of museum, gallery, library, archive, archaeology and assorted sources for machine-readable data [[link]](http://museum-api.pbworks.com/w/page/21933420/Museum%C2%A0APIs)
   - [[The Museum of Modern Art (MoMA) Collection]](https://github.com/MuseumofModernArt/collection): This research dataset contains 138,567 records, representing all of the works that have been accessioned into MoMA’s collection and cataloged in our database. It includes basic metadata for each work, including title, artist, date made, medium, dimensions, and date acquired by the Museum. Some of these records have incomplete information and are noted as “not Curator Approved." The Artists dataset contains 16,030 records, representing all the artists who have work in MoMA's collection and have been cataloged in our database. It includes basic metadata for each artist, including name, nationality, gender, birth year, death year, Wiki QID, and Getty ULAN ID. [[in the wild]](https://medium.com/@foe/here-s-a-roundup-of-how-people-have-used-our-data-so-far-80862e4ce220#.f6272outn). Update status: automatic monthly update
   - [[Feeding America: The Historic American Cookbook Dataset]](https://lib.msu.edu/feedingamericadata/)
   - [[The Museum of Modern Art (MoMA) Exhibition and Staff Histories]](https://github.com/MuseumofModernArt/exhibitions): This research dataset lists 1,788 exhibitions, representing all of the known exhibitions held at the museum from 1929 through 1989. All known curators and organizers, artists and other participants are listed for each exhibition. A total of 11,550 constituents are represented in this dataset, approximately 5,900 of them not currently represented in MoMA’s permanent collection of artworks. Update status: 2016
   - [[British Library]](https://data.bl.uk/): lots within here
   - [[Cooper Hewitt, Smithsonian Design Museum]](https://github.com/cooperhewitt/collection): This departments, exhibitions, objects, people, periods, roles and types folders contain Cooper Hewitt collection data exported as individual JSON files. Update status: 2017
   - [[The Tate Collection]](https://github.com/tategallery/collection): Here we present the metadata for around 70,000 artworks that Tate owns or jointly owns with the National Galleries of Scotland as part of ARTIST ROOMS. Metadata for around 3,500 associated artists is also included. Status update: 2014, not being updated
-
-Reddit [[link]](https://www.reddit.com/r/datasets/)
-
-KDnuggets [[link]](https://www.kdnuggets.com/datasets/index.html?source=post_page---------------------------)
-
-Socioeconomic High-resolution Rural-Urban Geographic panel for India (SHRUG) -- release Aug 25 [[link]](http://www.dartmouth.edu/~novosad/data.html)
-
-China’s Maritime Silk Road: data not public yet [[link]](https://haralambides-mel.blogspot.com/2019/06/riding-along-chinas-maritime-silk-road.html)
-
-Ontario Data Catalogue [[link]](https://stage.data.ontario.ca/)
-
-JPAL [[link]](https://dataverse.harvard.edu/dataverse/DFEEP)
-
-Urban Institute Catalogue [[link]](https://datacatalog.urban.org/search/type/dataset)
-
-QuantGov [[link]](https://quantgov.org/state-regdata/)
-
+- Reddit [[link]](https://www.reddit.com/r/datasets/)
+- KDnuggets [[link]](https://www.kdnuggets.com/datasets/index.html?source=post_page---------------------------)
+- Socioeconomic High-resolution Rural-Urban Geographic panel for India (SHRUG) -- release Aug 25 [[link]](http://www.dartmouth.edu/~novosad/data.html)
+- China’s Maritime Silk Road: data not public yet [[link]](https://haralambides-mel.blogspot.com/2019/06/riding-along-chinas-maritime-silk-road.html)
+- Ontario Data Catalogue [[link]](https://stage.data.ontario.ca/)
+- JPAL [[link]](https://dataverse.harvard.edu/dataverse/DFEEP)
+- Urban Institute Catalogue [[link]](https://datacatalog.urban.org/search/type/dataset)
+- QuantGov [[link]](https://quantgov.org/state-regdata/)
 
 ## Reproducible DS projects
 - cookiecutter Python package for folder setup, virtualenv, and privacy [[link]](https://drivendata.github.io/cookiecutter-data-science/)
@@ -320,6 +307,7 @@ Reproducible assignments with R-markdown [[link]](https://www.r-spatial.org/r/20
 Make a Readme [[link]](https://www.makeareadme.com/)
 
 ## The Job Search...
+- *The* big list of DS interviewing resources [[link]](https://www.conordewey.com/blog/the-big-list-of-data-science-interview-resources/?utm_campaign=The%20Data%20Science%20Roundup&utm_medium=email&utm_source=Revue%20newsletter)
 - ML interview (8k words, case studies, exercises) [[link]](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf?mkt_tok=eyJpIjoiWVdGaU4yTTNNek0xTnpFdyIsInQiOiJKeFwveWRic09uWjl4eW53Y21WTlY4ZHlPTlwvMkRZSXR4TmZ4cXJFXC9pXC9ENjgwWFwvZktUcFlKdFVtK1MrWXIxVzErZzhnU2FGYkhJanRVSSt0bWY1QlRIXC96bUU1NVJqcHB1bjgzcmljVWJRdlZtb1FzQzRnb3hLYjhGcWZLaUdsZSJ9&utm_campaign=The%20Data%20Science%20Roundup&utm_medium=email&utm_source=Revue%20newsletter)
 - Use "from," "by," and "to" in resumes [[link]](https://www.inc.com/bill-murphy-jr/want-to-hire-best-look-for-these-3-key-words-on-every-single-resume.html)
 - DS interview study guide [[link]](https://medium.com/better-programming/the-data-science-interview-study-guide-c3824cb76c2e)
