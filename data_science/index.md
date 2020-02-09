@@ -46,6 +46,7 @@ Great examples (and custom datasets):
   - How we grew from 0 to 4 million women on our fashion app, with a vertical machine learning approach [[link]](https://medium.com/hackernoon/how-we-grew-from-0-to-4-million-women-on-our-fashion-app-with-a-vertical-machine-learning-approach-f8b7fc0a89d7)
   - Machine Learning-Powered Search Ranking of Airbnb Experiences [[link]](https://medium.com/airbnb-engineering/machine-learning-powered-search-ranking-of-airbnb-experiences-110b4b1a0789)
   - Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning [[link]](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
+  - For Your Ears Only: Personalizing Spotify Home with Machine Learning [[link]](https://labs.spotify.com/2020/01/16/for-your-ears-only-personalizing-spotify-home-with-machine-learning/?utm_campaign=The%20Data%20Science%20Roundup&utm_medium=email&utm_source=Revue%20newsletter)
 
 ## Building a portfolio/website
 - Pin repos with strong work, have descriptive titles and a brief readme (include an image)
@@ -127,6 +128,7 @@ A trained model uses some training/learning algorithm to take as input a collect
 - Different types of models [[link]](http://norvig.com/chomsky.html)
 - Cool datasets [[link]](https://cooldatasets.com/)
 - Great guide to using predicted probabilities for a threshold model [[link]](https://blog.insightdatascience.com/visualizing-machine-learning-thresholds-to-make-better-business-decisions-4ab07f823415)
+- Goes beyond introductory texts on dealing with overfitting in prediction and inference problems [[link]](https://www.alexpghayes.com/blog/overfitting-a-guided-tour/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_267)
 
 ## Others
 - how to make a personal Python toolbox [[link]](https://brohrer.github.io/personal_toolbox.html)
