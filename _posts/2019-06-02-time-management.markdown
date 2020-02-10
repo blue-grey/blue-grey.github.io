@@ -5,6 +5,10 @@ date:   2019-06-02 22:33:40 -0400
 categories:
 ---
 
+Don't think about a task until you are ready to execute it. Don't make to-do lists. [[link]](https://dcgross.com/improvising-for-productivity/)
+
+
+
 The lie of time management [[link]](https://medium.com/@rwuebker/one-sixty-eight-558a4a25690e)
 
 How to get stuff done [[link]](https://marginalrevolution.com/marginalrevolution/2012/04/how-to-get-stuff-done.html)
