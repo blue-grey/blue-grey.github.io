@@ -334,6 +334,7 @@ Follow up: design a better measure.
 - SQL portfolio projects [[link]](https://twitter.com/OmSteadily/status/1178153389747654658)
 
 ## Interesting
+- K-nearest neighbour guide [[link]](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
 - dan luu's blog [[link]](https://danluu.com/)
 Bayesian Re-Analysis Challenge (2019)
 [[link]](https://docs.google.com/document/d/10g0l4H7uwf9S2g2Xv1y1VNj7vdGsk1UGtF7AgatzqgQ/edit#heading=h.om36m0top5c2)
