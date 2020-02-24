@@ -288,7 +288,7 @@ Make a Readme [[link]](https://www.makeareadme.com/)
   - Steps:
     1. Send a cold email to the recruiter (see "Direct Recruiter Email") and hiring manager
     2. Ramit Sethi's briefcase technique (also already downloaded). [[link]](https://towardsdatascience.com/3-strategies-to-guarantee-a-data-science-job-with-no-experience-68d85b345f21)
-
+  - really excellent cold emailing examples and tips [[link]](https://www.collaborativefund.com/blog/the-case-for-cold-contacting/?ck_subscriber_id=334907275)
 - if you're struggling to get a job with a title of "Data Scientist", consider looking at jobs that are frequently on the path to a Data Scientist role, like "Data Analyst".
 - Example AI/ML consultant Linkedin [[link]](https://www.linkedin.com/in/yeehector)
 - Just apply if you meet 30% of the requirements [[link]](https://twitter.com/jesslynnrose/status/1159034539227996160)
@@ -352,6 +352,9 @@ Bayesian Re-Analysis Challenge (2019)
 - Missing data [[link]](https://towardsdatascience.com/explainability-of-missing-data-replacements-8eb164d68222)
 
 > I like scikit-learn's consistent use of fit_transform and transform. It's nice to have a mental gap between "things I can do to the training data" and "things I can do to the test data".
+
+# Data Engineering
+- Great writeup of data engineering tools [[link]](https://medium.com/@squarecog/five-interesting-data-engineering-projects-48ffb9c9c501)
 
 # Moat Building
 - Knowing the difference between inference and prediction; knowledge about research design (statistical bias, bad counterfactuals, measurement, generalization, validity); causality; statistics. [^f17592c2]

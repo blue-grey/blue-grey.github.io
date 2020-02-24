@@ -1,12 +1,17 @@
 ---
 layout: post
-title:  "Time Management"
+title:  "Time Management & Life"
 date:   2019-06-02 22:33:40 -0400
 categories:
 ---
 
 Don't think about a task until you are ready to execute it. Don't make to-do lists. [[link]](https://dcgross.com/improvising-for-productivity/)
 
+3 hard learned people lessons [[link]](https://alearningaday.blog/2020/01/11/3-hard-learned-people-lessons/)
+
+Failure [[link]](https://itsonlychemo.wordpress.com/2019/05/02/failure/)
+> When you fail all you have to do is start the next thing. You are not in a prison camp. Failure isn’t your guard. You aren’t scrubbing boots or breaking rocks.
+Who cares if the others got there sooner or made it to a higher rock. You are not competing with them. You are competing with you.
 
 
 The lie of time management [[link]](https://medium.com/@rwuebker/one-sixty-eight-558a4a25690e)

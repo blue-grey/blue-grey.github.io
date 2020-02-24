@@ -20,3 +20,6 @@ Malay food: Geylang Serai (so authentic, most non-Malays don't even go there)
 
 
 [[link1]](https://marginalrevolution.com/marginalrevolution/2015/12/how-to-visit-singapore.html)
+
+Next trip:
+[[shuren projects (m'sia)]](https://www.shurenprojects.com/collections/sale)

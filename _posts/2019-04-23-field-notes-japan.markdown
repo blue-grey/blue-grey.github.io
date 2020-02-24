@@ -14,5 +14,7 @@ How to write a guide [[link]](https://medium.com/maxistentialism-blog/notes-from
 
 
 
-## Next tripp
+## Next trip
 [[Utrecht/NOW IDeA]](https://www.instagram.com/p/BzuZbMUBY9N/?igshid=qxrs1mqdy5d5)
+
+[[Muji Hotel]](https://hotel.muji.com/ginza/en/facilities/)
