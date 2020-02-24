@@ -306,6 +306,7 @@ Make a Readme [[link]](https://www.makeareadme.com/)
 - Career advice regarding tools [[link]](https://www.johndcook.com/blog/2011/11/21/career-advice-regarding-tools/)
 - Giving Some Tips For Data Science Interviews, After Interviewing 80 Candidates at Expedia [[link]](https://towardsdatascience.com/giving-some-tips-for-data-science-interviews-after-interviewing-60-candidates-at-expedia-395fff7e073b)
 - whiteboard coding interviews [[link]](https://twitter.com/bria_sullivan/status/1171852539551199232)
+- Job searching in the US (what to say for eligibility) [[link]](https://www.reddit.com/r/cscareerquestions/comments/5asqis/how_to_answer_are_you_legally_eligible_to_work_in/)
 
 >one of my favorite pieces of advice was from FastAI’s Jeremy Howard. He told me to focus on making one really great project that showed off my skills. He says that so many people have many interesting but half-finished projects on github, and that it’s much better to have a single one that is really polished. [[link]](https://hackernoon.com/how-not-to-do-fast-ai-or-any-ml-mooc-3d34a7e0ab8c)
 
@@ -360,6 +361,8 @@ Bayesian Re-Analysis Challenge (2019)
 - Address things like: where to get the right data, how data can be bad and how to address that.
 - Learn hierarchical bayesian inference models. [[example]](http://www.stat.columbia.edu/~gelman/research/published/lin.pdf)
 - Keep the portfolio simple. Pick a dataset, ask questions and explore the dataset and see how many you can answer with simple data visualizations and summaries of the distributions of data. Build reports that indicate possible answers to your questions, and communicate your exploratory findings. Come up with a single "real world" question that you can answer with this dataset, as if a boss asked you a business question. This can be put in a resume (1-line explanation) and talk about in an interview.  
+
+
 
 [^f2f694c7]: https://www.johndcook.com/blog/2011/11/21/career-advice-regarding-tools/
 
