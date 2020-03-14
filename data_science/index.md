@@ -3,6 +3,10 @@ layout: post
 title: Links
 # permalink: /links/
 ---
+## NYC Taxi Project
+- use datashader (example included) [[link]](https://datashader.org/getting_started/Introduction.html)
+- Lambda's Plotly Dash guide [[link]](https://lambdaschool.github.io/ds/unit2/portfolio-project/ds6#plotly-dash)
+
 
 ## Portfolio Projects
 - [ ] Text-based
@@ -48,6 +52,7 @@ Great examples (and custom datasets):
   - Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning [[link]](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
   - For Your Ears Only: Personalizing Spotify Home with Machine Learning [[link]](https://labs.spotify.com/2020/01/16/for-your-ears-only-personalizing-spotify-home-with-machine-learning/?utm_campaign=The%20Data%20Science%20Roundup&utm_medium=email&utm_source=Revue%20newsletter)
   - Fighting Financial Fraud with Targeted Friction [[link]](https://medium.com/airbnb-engineering/fighting-financial-fraud-with-targeted-friction-82d950d8900e)
+  - Really fantastic walkthrough of data science at a company, including what they automate in their pipeline so that new grads can contribute from day 1 without tanking production code [[link]](https://syslog.ravelin.com/data-science-best-practices-843c9693db8)
 
 
 ## Building a portfolio/website
@@ -100,6 +105,7 @@ Great examples (and custom datasets):
 ## Causation
 - A Second Chance to Get Causal Inference Right: A Classification of Data Science Tasks [[link]](https://amstat.tandfonline.com/doi/full/10.1080/09332480.2019.1579578#.XWtAJZNKjBJ)
 - First workshop on bridging causal inference, RL and transfer learning [[link]](https://crt2019.github.io/)
+- Case study by company on using causal analysis with ML [[link]](https://multithreaded.stitchfix.com/blog/2019/12/19/good-marketing-decisions/)
 
 ## AutoML
 - Towards Automated Machine Learning: Evaluation and Comparison of AutoML Approaches and Tools [[link]](https://arxiv.org/abs/1908.05557)
@@ -120,6 +126,7 @@ Great examples (and custom datasets):
 - Bootstrapping is the most intuitive way to teach inference in introductory stats courses. [[link]](https://twitter.com/grant_mcdermott/status/1175576565863702528)
 - How Postgres Makes Transactions Atomic [[link]](https://brandur.org/postgres-atomicity)
 - SQL query order [[link]](https://twitter.com/b0rk/status/1179449535938076673)
+- SQL Interview Questions: 3 Tech Screening Exercises (For Data Analysts) [[link]](https://data36.com/sql-interview-questions-tech-screening-data-analysts/)
 
 ## Modeling
 >A statistical model is a mathematical model which is modified or trained by the input of data points. Statistical models are often but not always probabilistic. Where the distinction is important we will be careful not to just say "statistical" but to use the following component terms:
@@ -132,7 +139,13 @@ A trained model uses some training/learning algorithm to take as input a collect
 - Great guide to using predicted probabilities for a threshold model [[link]](https://blog.insightdatascience.com/visualizing-machine-learning-thresholds-to-make-better-business-decisions-4ab07f823415)
 - Goes beyond introductory texts on dealing with overfitting in prediction and inference problems [[link]](https://www.alexpghayes.com/blog/overfitting-a-guided-tour/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_267)
 
+## NLP
+- Comprehensive guide to NLP [[link]](https://github.com/microsoft/nlp-recipes/)
+
 ## Others
+- Including uncertainty in visualizations [[link]](https://medium.com/multiple-views-visualization-research-explained/the-curious-absence-of-uncertainty-from-many-most-visualizations-f0c7f89e8d84)
+- Intro to Kubernetes [[link]](https://www.jeremyjordan.me/kubernetes/)
+- Refactoring code with good coding habits (including how to refactor a Jupyter notebook into .py) [[link]](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists)
 - how to make a personal Python toolbox [[link]](https://brohrer.github.io/personal_toolbox.html)
 - analyzing 100GB of data with Vaex, example using NYC taxi dataset [[link]](https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of-data-on-your-laptop-with-python-f83363dda94)
 - very detailed POV into data science consulting [[link]](https://www.ethanrosenthal.com/2020/01/08/freelance-ds-consulting/?utm_campaign=The%20Data%20Science%20Roundup&utm_medium=email&utm_source=Revue%20newsletter)
@@ -171,9 +184,11 @@ Create An API To Deploy Machine Learning Models Using Flask and Heroku [[link]](
 - How to unit test machine learning code. [[link]](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)
 
 ## Cheatsheets & packages
-- Matplotlib [[link1]](https://github.com/rougier/matplotlib-cheatsheet)
+- Matplotlib
+  - Cheatsheet [[link1]](https://github.com/rougier/matplotlib-cheatsheet)
   - Figures hold axes, axes hold everything else [[link]](https://t.co/9sB9n7y6RB?amp=1)
-- Best guide to using Matplotlib [[link]](https://pbpython.com/effective-matplotlib.html)
+  - Very detailed guide to matplotlib [[link]](https://gist.github.com/akashpalrecha/4652e98c9b2f3f1961637be001dc0239)
+  - Best guide to using Matplotlib [[link]](https://pbpython.com/effective-matplotlib.html)
 - econtools: econometric functions and convenient shortcuts for data work with pandas and numpy [[link]](https://github.com/dmsul/econtools)
 - default export to: pandas to_csv()'s quoting=csv.QUOTE_NONNUMERIC [[link]](https://twitter.com/pybokeh/status/1216312458694053888?s=20)
 
@@ -245,6 +260,9 @@ Reproducible assignments with R-markdown [[link]](https://www.r-spatial.org/r/20
 - OpenGeoHub2019 [[link]](https://github.com/HannaMeyer/OpenGeoHub_2019/blob/master/slides/Practice_Hanna.pdf)
 - The Bartlett Centre for Advanced Spatial Analysis [[link]](https://www.ucl.ac.uk/bartlett/casa/rspatial.org [[link]](https://rspatial.org/)
 - Applied Spatial Data Analysis with R [[link]](https://asdar-book.org/)
+- Spatial Modeling Problems & Decision Tree from CARTO [[link]](https://github.com/andy-esch/sdsc-workshop)
+- Spatial Data Analysis Case Studies [[link]](https://www.rspatial.org/raster/cases/cases.pdf)
+- Datashader [[link]](https://datashader.org/getting_started/Introduction.html)
 
 ## Statistics
 - Caltech's probability distribution explorer (with Python code) [[link]](http://bois.caltech.edu/distribution_explorer/)
@@ -256,7 +274,23 @@ Make a Readme [[link]](https://www.makeareadme.com/)
 ## Math
 - Solid guide to the math behind PCA [[link]](https://towardsdatascience.com/the-mathematics-behind-principal-component-analysis-fff2d7f4b643)
 
+
+## Algorithms
+- 107+ Coding Interview Problems with Detailed Solutions [[link]](https://github.com/hoanhan101/algo)
+
 ## The Job Search...
+- Top 30 data science questions with answers [[link]](https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c)
+- Excellent job search process (including brand statement, job application target) [[link]](https://towardsdatascience.com/2020-is-coming-practical-tips-for-landing-your-first-data-job-13f77aab1333)
+- Emil Wallner on machine learning portfolio tips [[link]](https://threader.app/thread/1184723538810413056)
+    - NeurIPS from 1987 - 1997
+    - Stanford’s CS224n & CS231n projects
+    - Twitter likes from ML outliers
+    - ML Reddit’s WAYR
+    - Kaggle Kernels
+    - Top 15-40% papers on Arxiv Sanity
+    - Build a graphical user interface or generate quality visual results. Use bullet points, simple graphs, video walkthroughs, gifs, and large explainer images.
+- Accurate walkthrough of a DS hiring process, and what to focus on for each stage [[link]](https://towardsdatascience.com/mastering-the-data-science-interview-15f9c0a558a7)
+- Pretty detailed walkthrough of a FB data scientist interview (what Python code/libraries to know) [[link]](https://www.breakingintodatascience.com/2019-05-09-facebook-data-scientist-interview-guide-part-2-coding/)
 - *The* big list of DS interviewing resources [[link]](https://www.conordewey.com/blog/the-big-list-of-data-science-interview-resources/?utm_campaign=The%20Data%20Science%20Roundup&utm_medium=email&utm_source=Revue%20newsletter)
 - ML interview (8k words, case studies, exercises) [[link]](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf?mkt_tok=eyJpIjoiWVdGaU4yTTNNek0xTnpFdyIsInQiOiJKeFwveWRic09uWjl4eW53Y21WTlY4ZHlPTlwvMkRZSXR4TmZ4cXJFXC9pXC9ENjgwWFwvZktUcFlKdFVtK1MrWXIxVzErZzhnU2FGYkhJanRVSSt0bWY1QlRIXC96bUU1NVJqcHB1bjgzcmljVWJRdlZtb1FzQzRnb3hLYjhGcWZLaUdsZSJ9&utm_campaign=The%20Data%20Science%20Roundup&utm_medium=email&utm_source=Revue%20newsletter)
 - Great example of a DS technical + consulting question, with answers [[link]](https://twitter.com/colin_fraser/status/1199519328820850688)
@@ -325,6 +359,8 @@ Follow up: design a better measure.
   - for the next five minutes please explain to me a subject, any subject, that you’re really passionate about
   - You're a data scientist at a large telecom company that has contracted a large consulting firm to build a model to predict customer churn for wireless contracts. Overall customer churn is 6% per year, and we want to use the model to target likely churners with offers. Consultants train a logistic regression `churn2018 ~ csat + geography + total_revenue_2018` where churn2018 is binary = 1 iff the customer churned in 2018, csat is the most recent score on a customer satisfaction survey, geography is a factor variable for customer location. They report that their model has 94% accuracy. Your boss wants you to review their methods before we she pays the consultants. 1. What clarifying questions would you ask the consultants about their model? 2. Should we pay?
     - 27 ML exercises from huge doc on ML systems design [[link]](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)
+- Companies:
+    - Ravelin (NY & London): [take home](https://github.com/unravelin/code-test-data-science)
 
 ## Statistics
 - Here’s my quick sketch of two very different ways to look at logistic regression [[link]](https://twitter.com/willkurt/status/1168880597877645312)

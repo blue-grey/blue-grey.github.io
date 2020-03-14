@@ -30,6 +30,8 @@ Sheena Liam, contemporary embroidery artist of Malaysian Chinese descent [[link]
 
 Anne Roberts [[link]](http://www.anna-roberts.com/)
 
+Diane Meyer [[link]](https://www.klompching.com/diane-meyer-berlin-exhibition-2019)
+
 ## Movements
 
 De Stijl [[link]](https://www.telegraph.co.uk/travel/destinations/europe/netherlands/articles/de-stijl-the-most-important-art-movement-you-have-not-heard-of/)
