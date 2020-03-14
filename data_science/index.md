@@ -53,6 +53,7 @@ Great examples (and custom datasets):
   - For Your Ears Only: Personalizing Spotify Home with Machine Learning [[link]](https://labs.spotify.com/2020/01/16/for-your-ears-only-personalizing-spotify-home-with-machine-learning/?utm_campaign=The%20Data%20Science%20Roundup&utm_medium=email&utm_source=Revue%20newsletter)
   - Fighting Financial Fraud with Targeted Friction [[link]](https://medium.com/airbnb-engineering/fighting-financial-fraud-with-targeted-friction-82d950d8900e)
   - Really fantastic walkthrough of data science at a company, including what they automate in their pipeline so that new grads can contribute from day 1 without tanking production code [[link]](https://syslog.ravelin.com/data-science-best-practices-843c9693db8)
+  - How the Wall Street Journal is using deep learning to inform content strategy [[link]](https://medium.com/the-wall-street-journal/how-the-wall-street-journal-is-using-deep-learning-to-inform-content-strategy-4b4a07090110)
 
 
 ## Building a portfolio/website
@@ -99,6 +100,9 @@ Great examples (and custom datasets):
 ## Spark
 - Guide to columnar file formats (parquet, ORC) [[link]](https://blog.matthewrathbone.com/2019/11/21/guide-to-columnar-file-formats.html?utm_campaign=The%20Data%20Science%20Roundup&utm_medium=email&utm_source=Revue%20newsletter)
 
+## Git
+- Avoiding merge when dealing with remote conflicts [[link]](https://goiabada.blog/git-tricks-avoiding-merge-when-dealing-with-remote-conflicts-52c175e526e6)
+
 ## Imbalanced Classes
 - Learning from Imbalanced Classes [[link]](https://www.svds.com/tbt-learning-imbalanced-classes/)
 
@@ -143,6 +147,10 @@ A trained model uses some training/learning algorithm to take as input a collect
 - Comprehensive guide to NLP [[link]](https://github.com/microsoft/nlp-recipes/)
 
 ## Others
+- The Craziness of Subset Selection in pandas — an Edge Case [[link]](https://medium.com/dunder-data/the-craziness-of-subset-selection-in-pandas-an-edge-case-1f5a54137f7c)
+- CS 229 Supervised Learning cheatsheet [[link]](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
+- Great reference for statistical code [[link]](https://lost-stats.github.io/)
+- Writing good code (with examples) in DS [[link]](https://towardsdatascience.com/top-10-coding-mistakes-made-by-data-scientists-bb5bc82faaee)
 - Including uncertainty in visualizations [[link]](https://medium.com/multiple-views-visualization-research-explained/the-curious-absence-of-uncertainty-from-many-most-visualizations-f0c7f89e8d84)
 - Intro to Kubernetes [[link]](https://www.jeremyjordan.me/kubernetes/)
 - Refactoring code with good coding habits (including how to refactor a Jupyter notebook into .py) [[link]](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists)
@@ -279,6 +287,7 @@ Make a Readme [[link]](https://www.makeareadme.com/)
 - 107+ Coding Interview Problems with Detailed Solutions [[link]](https://github.com/hoanhan101/algo)
 
 ## The Job Search...
+- SharpestMinds advice for job interviews [[link]](https://www.dataquest.io/blog/data-science-job-interviews-how-prepare/)
 - Top 30 data science questions with answers [[link]](https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c)
 - Excellent job search process (including brand statement, job application target) [[link]](https://towardsdatascience.com/2020-is-coming-practical-tips-for-landing-your-first-data-job-13f77aab1333)
 - Emil Wallner on machine learning portfolio tips [[link]](https://threader.app/thread/1184723538810413056)
