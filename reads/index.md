@@ -14,6 +14,12 @@ Late in the Day / Tessa Hadley
 
 The Man Who Solved The Market /
 
+~~The Memory Police / Yoko Ogawa~~
+
+~~Vengence is Mine, all Others Pay Cash / Eka Kurniawan~~
+
+~~Kitchen Curse / Eka Kurniawan~~
+
 Titan: The Life of John D. Rockefeller, Sr / Ron Chernow
 
 Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground / Kevin Poulsen
@@ -102,6 +108,8 @@ Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your
 
 Belt and Road / Bruno Macães
 
+My Family and Other Animals / Gerald Durrell
+
 ~~Year of Rest and Relaxation / Otessa Moshfegh~~ Absolute gold.
 
 ~~I Will Survive: Personal Gay, Lesbian, Bisexual & Transgender Stories in Singapore / Leow Yangfa, ed.~~
@@ -119,6 +127,8 @@ My Education, American Woman, ~~Trust Exercise (this was too boring)~~ / Susan C
 ~~The Address Book / Sophie Callie (a rare and extraordinary find, h/t to my gf)~~
 
 Unmastered / [Katherine Angel](https://www.theguardian.com/books/2012/sep/02/unmastered-desire-katherine-angel-review) [[on writing Unmastered]](https://fsgworkinprogress.com/2013/06/13/on-writing-unmastered/)
+
+To Pixar & Beyond / Lawrence Levy 
 
 **Intergenerational**
 

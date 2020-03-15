@@ -59,6 +59,9 @@ Great examples (and custom datasets):
   - Communicating Model Uncertainty Over Space [[link]](https://pair-code.github.io/interpretability/uncertainty-over-space/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_272)
   - Detecting Interference: An A/B Test of A/B Tests [[link]](https://engineering.linkedin.com/blog/2019/06/detecting-interference--an-a-b-test-of-a-b-tests?utm_campaign=SF%20Data%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
   - (Paper) 150 successful Machine Learning models: 6 lessons learned at Booking.com [[link]](https://www.kdd.org/kdd2019/accepted-papers/view/150-successful-machine-learning-models-6-lessons-learned-at-booking.com)
+  - Beyond L2 Loss — How we experiment with loss functions at Lyft [[link]](https://eng.lyft.com/beyond-l2-loss-how-we-experiment-with-loss-functions-at-lyft-51f9303f5d2d)
+  - Exploration of Nike's Vaporfly (clever data, data viz, multivariate statistical models, uncertainty accounted for) [[link]](https://t.co/5gQ7WRIFb0?amp=1)
+
 
 ## Building a portfolio/website
 - Pin repos with strong work, have descriptive titles and a brief readme (include an image)
@@ -75,6 +78,9 @@ Great examples (and custom datasets):
 - How to do Hierarchical Linear Regression in PyMC3 (uses Radon dataset) [[link]](https://twiecki.io/blog/2014/03/17/bayesian-glms-3/)
 - Paper: Analysis of Local Decisions Using Hierarchical Modeling, Applied to Home Radon Measurement and Remediation [[link]](http://www.stat.columbia.edu/~gelman/research/published/lin.pdf)
 - Paper: Understanding the Average Impact of Microcredit Expansions: A Bayesian Hierarchical Analysis of Seven Randomized Experiments[[link]](https://pdfs.semanticscholar.org/add4/5613b77be86a01d51555e4940462ef633942.pdf)
+- Bayesian Hierarchical Modeling (or “more reasons why autoML cannot replace Data Scientists yet”) [[link]](https://towardsdatascience.com/bayesian-hierarchical-modeling-or-more-reasons-why-automl-cannot-replace-data-scientists-yet-d01e7d571d3d)
+- WHY use bayesian MLM?
+    - This issue was at the heart of my conversion to bayesian multilevel modeling (and bayesian inference more generally.) Overfitting is rampant in my field (education research), but the use of regularizing priors and shrinkage from multilevel models helps to reduce it. [[link]](https://twitter.com/economeager/status/1217077189474209793)
 
 ## Time Series
 - Code walkthrough [[link]](https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices)
@@ -97,6 +103,7 @@ Great examples (and custom datasets):
 - JPAL [[link]](https://dataverse.harvard.edu/dataverse/DFEEP)
 - Urban Institute Catalogue [[link]](https://datacatalog.urban.org/search/type/dataset)
 - QuantGov [[link]](https://quantgov.org/state-regdata/)
+- Google Dataset [[link]](https://blog.google/products/search/discovering-millions-datasets-web/)
 
 ## Reproducible DS projects
 - cookiecutter Python package for folder setup, virtualenv, and privacy [[link]](https://drivendata.github.io/cookiecutter-data-science/)
@@ -122,6 +129,7 @@ Great examples (and custom datasets):
 - Causal inference book, with code [[link]](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 - The Causal Analysis of Cannibalization in Online Products [[link]](https://codeascraft.com/2020/02/24/the-causal-analysis-of-cannibalization-in-online-products/?utm_campaign=The%20Data%20Science%20Roundup&utm_medium=email&utm_source=Revue%20newsletter)
 - All the DAGs from Hernan and Robins' Causal Inference Book [[link]](https://sgfin.github.io/2019/06/19/Causal-Inference-Book-All-DAGs/)
+- Syllabus for causal inference in data science [[link]](http://joshualoftus.com/page/ms4ds/)
 
 ## AutoML
 - Towards Automated Machine Learning: Evaluation and Comparison of AutoML Approaches and Tools [[link]](https://arxiv.org/abs/1908.05557)
@@ -130,6 +138,7 @@ Great examples (and custom datasets):
 - how to choose sample sizes in A/B testing or ML iterations [[link]](https://chris-said.io/2020/01/10/optimizing-sample-sizes-in-ab-testing-part-I/?utm_campaign=The%20Data%20Science%20Roundup&utm_medium=email&utm_source=Revue%20newsletter)
 
 ## SQL
+- Window functions practice [[link]](https://www.windowfunctions.com/questions/intro/)
 - Udacity SQL course [[link]](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 - One SQL to Rule Them All [[paper]](https://arxiv.org/abs/1905.12133)]
 - SQL Style Guide [[link]](https://github.com/mattm/sql-style-guide)
@@ -161,8 +170,32 @@ A trained model uses some training/learning algorithm to take as input a collect
 
 ## NLP
 - Comprehensive guide to NLP [[link]](https://github.com/microsoft/nlp-recipes/)
+- Short Kaggle course on NLP [[link]](https://www.kaggle.com/learn/natural-language-processing)
+
+## Time Series
+- Why does covariance stationarity mean that we can make causal inferences? [[link]](https://twitter.com/tyleransom/status/1192059625211912192)
+    - answer [[link]](https://stats.stackexchange.com/questions/19715/why-does-a-time-series-have-to-be-stationary/19747#19747)
 
 ## Others
+- Making a heatmap of gridsearch [[link]](https://twitter.com/TedPetrou/status/1196113338217877505)
+- Kaggle's feature engineering course [[link]](https://www.kaggle.com/learn/feature-engineering)
+- Important to report model uncertainty [[link]](https://twitter.com/MatDrinksTea/status/1224479932102803456)
+    - train the model ~10 times with different random seeds. Evaluate each model and report the mean and variance of the results.
+- Very good thread on how to ask a good data question to business stakeholders [[link]](https://twitter.com/beeonaposy/status/1214973414345195520)
+- 3 part blog post on A/B testing [[link]](https://t.co/5gjMDjobND?amp=1)
+- Very good DIY DS curriculum at a conceptual level [[link]](https://github.com/brohrer/academic_advisory/blob/master/curriculum_roadmap.md)
+- How to learn good Python [[link]](https://ryxcommar.com/2019/10/24/how-i-learned-python/)
+    - And making good code great (same author) [[link]](https://ryxcommar.com/2019/11/02/making-good-code-great/)
+    - Python built-ins worth learning [[link]](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
+- Mapping from econ to ML [[link]](https://twitter.com/DinaPomeranz/status/1187080210136686593)
+    - 1) Exact mappings between concepts that just have different terms: i.e. "features" instead of "covariates"
+    - 2) The focus on out-of-sample prediction, the relevance of understanding the bias vs. variance tradeoff when reducing prediction error, and the importance of model averaging / testing.
+    - 3) The distinction between causal estimates (e.g. the return on schooling) and prediction
+    - I guess number 4 (which is part b of #2): the importance of feature reduction when doing prediction, which then leads to a vast number of new tools and techniques.
+    - takeaway: you need ID strateg if you have a causal inference question, while prediction questions do not rely on such strateg. [[link]](https://twitter.com/sebcos/status/1217271033213997056)
+ and Spiess put it in their JEP: beta_hat vs. y_hat
+- Giant notebook with cool Python tricks [[link]](https://github.com/chiphuyen/python-is-cool/blob/master/cool-python-tips.ipynb) and the original thread for more responses [[link]](https://twitter.com/chipro/status/1186651526338465792)
+- Validating models [[link]](https://twitter.com/jim_savage_/status/1201140767911284736)
 - when saving data as .csv with `pandas`, use quoting=csv.QUOTE_NONNUMERIC
 - How to Build a Twitter Text-Generating AI Bot With GPT-2 [[link]](https://minimaxir.com/2020/01/twitter-gpt2-bot/)
 - `wandb`: visualizing multiple ML models by performance, with code [[link]](https://app.wandb.ai/lavanyashukla/visualize-sklearn/reports/Visualize-Scikit-Models--Vmlldzo0ODIzNg)
@@ -256,7 +289,12 @@ Create An API To Deploy Machine Learning Models Using Flask and Heroku [[link]](
 ## R
 - R & Python workflow [[link]](https://towardsdatascience.com/guide-to-r-and-python-in-a-single-jupyter-notebook-ff12532eb3ba)
 
+
+## Docker
+- Learning to use Docker [[link]](https://www.samples-of-thoughts.com/2019/reproducible-data-science/)
+
 ## Machine learning
+- Online book on interpretable ML, good for black box models and Shapley values [[link]](https://christophm.github.io/interpretable-ml-book)
 - Online book on limitations of interpretable ML methods, good for PDP plots [[link]](https://compstat-lmu.github.io/iml_methods_limitations/)
 - Optimal ML classification decision boundaries with very helpful animation [[link]](https://mathformachines.com/posts/decision/) [[gifs]](https://github.com/ryanholbrook/decision-boundaries-animations)
 - Building machine learning products: workflow [[link]](https://www.jeremyjordan.me/ml-requirements/)
@@ -289,7 +327,10 @@ Create An API To Deploy Machine Learning Models Using Flask and Heroku [[link]](
 - Ranked and reviewed ML courses [[link]](https://twitter.com/chipro/status/1157772112876060672)
 - 100 numpy exercises [[link]](https://github.com/rougier/numpy-100)
 
-## Spatial Data science
+## Deep learning
+- Getting started on DL [[link]](https://d2l.ai/d2l-en.pdf)
+
+## Spatial data science
 - Spatial analysis tutorials in R [[link]](https://spatialanalysis.github.io/tutorials/)
 Reproducible assignments with R-markdown [[link]](https://www.r-spatial.org/r/2017/04/13/assignments.html)
 - Edzer Pebesma (SDSC 2019 workshop) [[link]](https://github.com/edzer)
@@ -306,6 +347,7 @@ Reproducible assignments with R-markdown [[link]](https://www.r-spatial.org/r/20
 ## Statistics
 - Caltech's probability distribution explorer (with Python code) [[link]](http://bois.caltech.edu/distribution_explorer/)
 - Understanding MLE (with interactive visuals) [[link]](https://rpsychologist.com/d3/likelihood/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_272)
+- Common statistical tests are linear models (really great cheatsheet with code) [[link]](https://eigenfoo.xyz/tests-as-linear/)
 
 ## Documentation
 Make a Readme [[link]](https://www.makeareadme.com/)
@@ -321,6 +363,25 @@ Make a Readme [[link]](https://www.makeareadme.com/)
 - BW data engineering guide [[link]](https://github.com/quinn-dougherty/build-week-survival-guide-data-engineering-machine-learning/blob/master/data-engineering-README.md)
 
 ## The Job Search...
+- Brandon Rohr's guide to a DS career [[link]](https://end-to-end-machine-learning.teachable.com/p/navigating-a-data-science-career/)
+- Why you should have ~3 essays on your site and how to operationalize them [[link]](https://twitter.com/patio11/status/1235088344066842624)
+    - You can use them as a proof-of-work in cold or coldish 1:1 reachouts like e.g. to hiring managers for jobs you want. It puts you *so far ahead* of the average reachout.
+    - Whatever it is that you do professionally. This does not have to be rocket science; "Architecting a real-time chat application with NSQ and websockets" would be a great piece for a full-stack engineer, for example.
+    - (Note how for a lot of jobs "I'm going to describe a very commonly used applicaiton/service/etc and you're going to walk through how you understand it with me" is a very literal interview question, so why not get ahead of the curve. Bonus: you'll be prepped as heck for that one.)
+    - "I saw that FooCorp is hiring full stack engineers engineers. I love what you are doing with React these days; I've written about some of my experiences here: LINK. Would you like to chat about what working at FooCorp is like?"
+    - As long as I’m giving proscriptive advice, your goal at the end of that call is: “I’m enthusiastic about working at FooCorp. Can you help me get the ball rolling?” or, if Jane has hiring authority, “What do you recommend as the next step for exploring working together?”
+    - Virtually every company with a defined application process has a sidechannel for candidates that someone internally feels strongly about and you want to be in that sidechannel.
+- Uber data science interview [[link]](https://towardsdatascience.com/the-uber-data-scientist-interview-7ba9ca95f4e3)
+- How to do a DS phone screening (very good) [[link]](https://twitter.com/BecomingDataSci/status/1198351229564440577)
+    - I want to know that you've come across problems you'll experience on the job, and overcame them. I want to know what role you played if it was a group project.
+    - I want to know how you decided what question to answer, and what approach to take. I want to know if you tried different tools or techniques, or had to learn something new in order to accomplish what you were attempting to do.
+    - If you're describing a project you've done at work, be prepared to talk about it from different stakeholders' perspectives. Some might want to know your technical approach and model evaluation metrics.
+    - Some might want to know *why* you were working on it, and what business value you provided.
+    - It's ok to pause and ask, "Do you want me to continue and explain more?"
+    - There are certain data science topics you should be prepared to give answers to that show that you've come across a topic. One example: How did you know your model was good? (with follow-up questions digging into possible model evaluation pitfalls)
+    - So, maybe look at lists of common data science questions, narrow it down to the ones relevant to what's on your resume or what's in the job posting, and be prepared to answer those.
+- Go to a conference to meet people, not attend talks [[link]](https://twitter.com/chipro/status/1196889061799055360)
+    -  The main value is the people. Look up authors/speakers/Twitter in advance to see who's going and email them asking for a quick chat. Talk to everyone, especially those whose work isn't already famous.
 - Managing online presence tips [[link]](https://twitter.com/hadleywickham/status/1189971594778681344)
     - Polish Github homepage, with profile pic
     - Pin strong repos, concise but descriptive titles, add a Readme and include a plot/image
@@ -341,7 +402,7 @@ Make a Readme [[link]](https://www.makeareadme.com/)
 - Accurate walkthrough of a DS hiring process, and what to focus on for each stage [[link]](https://towardsdatascience.com/mastering-the-data-science-interview-15f9c0a558a7)
 - Pretty detailed walkthrough of a FB data scientist interview (what Python code/libraries to know) [[link]](https://www.breakingintodatascience.com/2019-05-09-facebook-data-scientist-interview-guide-part-2-coding/)
 - *The* big list of DS interviewing resources [[link]](https://www.conordewey.com/blog/the-big-list-of-data-science-interview-resources/?utm_campaign=The%20Data%20Science%20Roundup&utm_medium=email&utm_source=Revue%20newsletter)
-- ML interview (8k words, case studies, exercises) [[link]](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf?mkt_tok=eyJpIjoiWVdGaU4yTTNNek0xTnpFdyIsInQiOiJKeFwveWRic09uWjl4eW53Y21WTlY4ZHlPTlwvMkRZSXR4TmZ4cXJFXC9pXC9ENjgwWFwvZktUcFlKdFVtK1MrWXIxVzErZzhnU2FGYkhJanRVSSt0bWY1QlRIXC96bUU1NVJqcHB1bjgzcmljVWJRdlZtb1FzQzRnb3hLYjhGcWZLaUdsZSJ9&utm_campaign=The%20Data%20Science%20Roundup&utm_medium=email&utm_source=Revue%20newsletter)
+- ML interviews (8k words, case studies, exercises) [[link]](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)
 - Great example of a DS technical + consulting question, with answers [[link]](https://twitter.com/colin_fraser/status/1199519328820850688)
 - Cold emailing: short, clear about who you are, value prop for receiver, specific ask [[thread]](https://twitter.com/sriramk/status/1214278840358359040)
   - An example email [[link]](https://twitter.com/zebulgar/status/1200216090913071104)
@@ -376,6 +437,7 @@ Make a Readme [[link]](https://www.makeareadme.com/)
   - really excellent cold emailing examples and tips [[link]](https://www.collaborativefund.com/blog/the-case-for-cold-contacting/?ck_subscriber_id=334907275)
 - if you're struggling to get a job with a title of "Data Scientist", consider looking at jobs that are frequently on the path to a Data Scientist role, like "Data Analyst".
 - Example AI/ML consultant Linkedin [[link]](https://www.linkedin.com/in/yeehector)
+- Very good DS LinkedIn profile guide [[link]](https://www.kdnuggets.com/2019/11/data-science-linkedin-profile-guide.html)
 - Just apply if you meet 30% of the requirements [[link]](https://twitter.com/jesslynnrose/status/1159034539227996160)
 - Why blogs? "My blog was essential to establishing a career in the tech industry. When I had nothing to show on my resume, my blog demonstrated that I could understand and articulate technical concepts." [[link]](https://twitter.com/taravancil/status/1161087468172644352)
 - Advice for graduates applying for data science jobs [[link]](https://mpopov.com/blog/advice-for-grads-entering-industry-datasci)
@@ -453,8 +515,6 @@ Bayesian Re-Analysis Challenge (2019)
 - Address things like: where to get the right data, how data can be bad and how to address that.
 - Learn hierarchical bayesian inference models. [[example]](http://www.stat.columbia.edu/~gelman/research/published/lin.pdf)
 - Keep the portfolio simple. Pick a dataset, ask questions and explore the dataset and see how many you can answer with simple data visualizations and summaries of the distributions of data. Build reports that indicate possible answers to your questions, and communicate your exploratory findings. Come up with a single "real world" question that you can answer with this dataset, as if a boss asked you a business question. This can be put in a resume (1-line explanation) and talk about in an interview.  
-
-
 
 [^f2f694c7]: https://www.johndcook.com/blog/2011/11/21/career-advice-regarding-tools/
 

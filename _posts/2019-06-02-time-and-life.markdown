@@ -17,10 +17,19 @@ Most decisions are reversible, start making more [[link]](https://cynthiabellmcg
 
 >If one more 22-year-old writes to me and bemoans the years they've wasted and how it's too late to start anything new at this point, I am going to set something on fire. [[link]](https://twitter.com/hhavrilesky/status/1201928197626982400)
 
-
 Give yourself task jubilees [[link]](https://twitter.com/Malcolm_Ocean/status/1212540697682829312)
 
+>It took me longer than it should have to realize that people who seem to know everything are just adept at steering the conversation into their comfort zone. [[link]](https://twitter.com/_brohrer_/status/1226882781508243456)
 
+>The biggest career break is when you discover what you want to be doing in life.  Then it becomes mostly a matter of embracing the daily grind, and letting it compound over time.   The best professionals I know simply have been at it for a long time. [[link]](https://twitter.com/mattturck/status/1201275263528640512)
+
+>You don’t need to be trying to convert people forcefully or preach at them. I find that a sincere curiosity about what people mean often goes a really long way. People get defensive when you attack them. But genuine questions linger with them for years and change them from inside [[link]](https://twitter.com/visakanv/status/1011457604692815872)
+
+>if I’m not good enough I might as well learn as much as I can in the meantime
+[[link]](https://twitter.com/SusannaLHarris/status/1235278870783422465)
+
+
+>I feel like “put yourself in the shoes of the people who have the ability to give you what you want, then work give them what they want” is still a dramatically underutilized frame for getting what you want. It applies to everything from dating to jobs. Foundational peopling 101. "What people profess to want" and "What people are believed to want" are not coextensive with "What people want" and "What people take specific actions to get" is a much better predictor were really, really important lessons for me. [[link]](https://twitter.com/visakanv/status/1198840906796785664)
 
 The lie of time management [[link]](https://medium.com/@rwuebker/one-sixty-eight-558a4a25690e)
 

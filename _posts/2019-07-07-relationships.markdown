@@ -18,4 +18,14 @@ Dodie Bellamy's [[My Mixed Marriage]](https://www.villagevoice.com/2000/06/20/my
 
 >Public service announcement: If your boyfriend seems distant and all you want is to fix it, do the opposite of that instead. [[link]](https://twitter.com/hhavrilesky/status/1138584710706110464)
 
->I have met older adults – uncles, aunties, etc – who are genuinely surprised that I love my wife [love your wife](https://twitter.com/visakanv/status/1180416248028385281)
+>I have met older adults – uncles, aunties, etc – who are genuinely surprised that I love my wife [[love your wife]](https://twitter.com/visakanv/status/1180416248028385281)
+
+>My top advice for youngsters as we embark on a new and uncertain decade: don’t marry anyone who expects to maintain a middle class or higher standard of living. They will seriously hinder your ability to adapt to unstable times ahead. [[link]](https://twitter.com/greenwoodae/status/1213100173007695877)
+
+strategies for long distance [[link]](https://twitter.com/alexakmeyer/status/1226329184709988352)
+
+>if you're not happy single, you won't be happy in a relationship. [[link]](https://twitter.com/cszhu/status/1230954186520461312)
+
+
+"The problem most people have with marriages that fail is that they go in thinking, "This person will make me happy." The fuck they will." "You aren't signing on for happiness. You are signing on for sharing human life, and a human life is a complete chaotic crazy mess."
+[[link]](https://twitter.com/visakanv/status/1030490009801904128)

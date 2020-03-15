@@ -99,6 +99,7 @@ Competitive edge in data science [[link]](https://mobile.twitter.com/joelgrus/st
 A Visual Intro to NumPy and Data Representation [[link]](https://jalammar.github.io/visual-numpy/)
 
 ## Writing
+- Rapidly prototyping papers [[link]](https://t.co/BaZhBbH9Y7?amp=1) 
 
 How to read (in quantitative social science). And by implication, how to write. [[link]](https://statmodeling.stat.columbia.edu/2018/05/05/read-quantitative-social-science-implication-write-2/)
 
