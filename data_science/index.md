@@ -54,7 +54,11 @@ Great examples (and custom datasets):
   - Fighting Financial Fraud with Targeted Friction [[link]](https://medium.com/airbnb-engineering/fighting-financial-fraud-with-targeted-friction-82d950d8900e)
   - Really fantastic walkthrough of data science at a company, including what they automate in their pipeline so that new grads can contribute from day 1 without tanking production code [[link]](https://syslog.ravelin.com/data-science-best-practices-843c9693db8)
   - How the Wall Street Journal is using deep learning to inform content strategy [[link]](https://medium.com/the-wall-street-journal/how-the-wall-street-journal-is-using-deep-learning-to-inform-content-strategy-4b4a07090110)
-
+  - How The New York Times is Experimenting with Recommendation Algorithms [[link]](https://open.nytimes.com/how-the-new-york-times-is-experimenting-with-recommendation-algorithms-562f78624d26)
+  - Predicting and monitoring payment volumes with Spark and ElasticSearch [[link]](https://www.adyen.com/blog/predicting-and-monitoring-payment-volumes-with-spark-and-elasticsearch)
+  - Communicating Model Uncertainty Over Space [[link]](https://pair-code.github.io/interpretability/uncertainty-over-space/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_272)
+  - Detecting Interference: An A/B Test of A/B Tests [[link]](https://engineering.linkedin.com/blog/2019/06/detecting-interference--an-a-b-test-of-a-b-tests?utm_campaign=SF%20Data%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
+  - (Paper) 150 successful Machine Learning models: 6 lessons learned at Booking.com [[link]](https://www.kdd.org/kdd2019/accepted-papers/view/150-successful-machine-learning-models-6-lessons-learned-at-booking.com)
 
 ## Building a portfolio/website
 - Pin repos with strong work, have descriptive titles and a brief readme (include an image)
@@ -71,6 +75,9 @@ Great examples (and custom datasets):
 - How to do Hierarchical Linear Regression in PyMC3 (uses Radon dataset) [[link]](https://twiecki.io/blog/2014/03/17/bayesian-glms-3/)
 - Paper: Analysis of Local Decisions Using Hierarchical Modeling, Applied to Home Radon Measurement and Remediation [[link]](http://www.stat.columbia.edu/~gelman/research/published/lin.pdf)
 - Paper: Understanding the Average Impact of Microcredit Expansions: A Bayesian Hierarchical Analysis of Seven Randomized Experiments[[link]](https://pdfs.semanticscholar.org/add4/5613b77be86a01d51555e4940462ef633942.pdf)
+
+## Time Series
+- Code walkthrough [[link]](https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices)
 
 ## Open Data
 - Jordà-Schularick-Taylor Macrohistory Database [[link]](http://www.macrohistory.net/data/)
@@ -99,17 +106,21 @@ Great examples (and custom datasets):
 
 ## Spark
 - Guide to columnar file formats (parquet, ORC) [[link]](https://blog.matthewrathbone.com/2019/11/21/guide-to-columnar-file-formats.html?utm_campaign=The%20Data%20Science%20Roundup&utm_medium=email&utm_source=Revue%20newsletter)
+- A Brief Introduction to PySpark [[link]](https://towardsdatascience.com/a-brief-introduction-to-pyspark-ff4284701873)
 
 ## Git
 - Avoiding merge when dealing with remote conflicts [[link]](https://goiabada.blog/git-tricks-avoiding-merge-when-dealing-with-remote-conflicts-52c175e526e6)
-
-## Imbalanced Classes
-- Learning from Imbalanced Classes [[link]](https://www.svds.com/tbt-learning-imbalanced-classes/)
+- Creating a pull request [[link]](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+- Pushing commits to remote repo [[link]](https://help.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
+- Syncing a fork [[link]](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork)
+- Keeping a fork up to date [[link]](https://gist.github.com/CristinaSolana/1885435)
 
 ## Causation
 - A Second Chance to Get Causal Inference Right: A Classification of Data Science Tasks [[link]](https://amstat.tandfonline.com/doi/full/10.1080/09332480.2019.1579578#.XWtAJZNKjBJ)
 - First workshop on bridging causal inference, RL and transfer learning [[link]](https://crt2019.github.io/)
 - Case study by company on using causal analysis with ML [[link]](https://multithreaded.stitchfix.com/blog/2019/12/19/good-marketing-decisions/)
+- Causal inference book, with code [[link]](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
+- The Causal Analysis of Cannibalization in Online Products [[link]](https://codeascraft.com/2020/02/24/the-causal-analysis-of-cannibalization-in-online-products/?utm_campaign=The%20Data%20Science%20Roundup&utm_medium=email&utm_source=Revue%20newsletter)
 
 ## AutoML
 - Towards Automated Machine Learning: Evaluation and Comparison of AutoML Approaches and Tools [[link]](https://arxiv.org/abs/1908.05557)
@@ -131,6 +142,7 @@ Great examples (and custom datasets):
 - How Postgres Makes Transactions Atomic [[link]](https://brandur.org/postgres-atomicity)
 - SQL query order [[link]](https://twitter.com/b0rk/status/1179449535938076673)
 - SQL Interview Questions: 3 Tech Screening Exercises (For Data Analysts) [[link]](https://data36.com/sql-interview-questions-tech-screening-data-analysts/)
+- Interesting Twitter thread on complicated SQL queries [[link]](https://twitter.com/b0rk/status/1175068822107279362?s=12)
 
 ## Modeling
 >A statistical model is a mathematical model which is modified or trained by the input of data points. Statistical models are often but not always probabilistic. Where the distinction is important we will be careful not to just say "statistical" but to use the following component terms:
@@ -147,6 +159,13 @@ A trained model uses some training/learning algorithm to take as input a collect
 - Comprehensive guide to NLP [[link]](https://github.com/microsoft/nlp-recipes/)
 
 ## Others
+- Google's Machine Learning Crash Course [[link]](https://developers.google.com/machine-learning/crash-course)
+- Visualizing K-Means Clustering [[link]](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
+- SO list of common statistical sins [[link]](https://stats.stackexchange.com/questions/4551/what-are-common-statistical-sins)
+- Doing ML efficiently: subset data first! [[link]](https://medium.com/hackernoon/doing-machine-learning-efficiently-8ba9d9bc679d)
+- Very useful guide to Pandas groupby [[link]](https://towardsdatascience.com/pandas-groupby-aggregate-transform-filter-c95ba3444bbb)
+- Informative probabilistic scripting for data cleaning [[link]](https://www.youtube.com/watch?v=MiiWzJE0fEA)
+- Creating a bar chart race [[link]](https://observablehq.com/@d3/bar-chart-race-explained)
 - The Craziness of Subset Selection in pandas — an Edge Case [[link]](https://medium.com/dunder-data/the-craziness-of-subset-selection-in-pandas-an-edge-case-1f5a54137f7c)
 - CS 229 Supervised Learning cheatsheet [[link]](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
 - Great reference for statistical code [[link]](https://lost-stats.github.io/)
@@ -187,6 +206,9 @@ A trained model uses some training/learning algorithm to take as input a collect
 - Video walkthrough of how to an ML model with Flask and Heroku (from SharpestMinds) [[link]](https://www.youtube.com/watch?v=OdYpNM05e9w)
 Create An API To Deploy Machine Learning Models Using Flask and Heroku [[link]](https://towardsdatascience.com/create-an-api-to-deploy-machine-learning-models-using-flask-and-heroku-67a011800c50)
 - HTTP [[link]](https://gumroad.com/l/http-zine)
+- Detailed guide to building a Flask ML app [[link]](https://towardsdatascience.com/build-a-react-flask-app-that-suggests-novel-novels-with-a-python-graph-9491e714bbdf)
+- Very good walkthrough on deploying models to Flask [[link]](Deploying Models to Flask)
+-
 
 ## Unit Test
 - How to unit test machine learning code. [[link]](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)
@@ -271,10 +293,11 @@ Reproducible assignments with R-markdown [[link]](https://www.r-spatial.org/r/20
 - Spatial Modeling Problems & Decision Tree from CARTO [[link]](https://github.com/andy-esch/sdsc-workshop)
 - Spatial Data Analysis Case Studies [[link]](https://www.rspatial.org/raster/cases/cases.pdf)
 - Datashader [[link]](https://datashader.org/getting_started/Introduction.html)
+- Python library that plots Strava data [[link]](https://github.com/ColCarroll/strava_calendar)
 
 ## Statistics
 - Caltech's probability distribution explorer (with Python code) [[link]](http://bois.caltech.edu/distribution_explorer/)
-
+- Understanding MLE (with interactive visuals) [[link]](https://rpsychologist.com/d3/likelihood/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_272)
 
 ## Documentation
 Make a Readme [[link]](https://www.makeareadme.com/)
@@ -286,7 +309,11 @@ Make a Readme [[link]](https://www.makeareadme.com/)
 ## Algorithms
 - 107+ Coding Interview Problems with Detailed Solutions [[link]](https://github.com/hoanhan101/algo)
 
+## Lambda specific
+- BW data engineering guide [[link]](https://github.com/quinn-dougherty/build-week-survival-guide-data-engineering-machine-learning/blob/master/data-engineering-README.md)
+
 ## The Job Search...
+- Zach Angell's DS hiring guide [[link]](https://github.com/zangell44/ds-hiring-guide)
 - SharpestMinds advice for job interviews [[link]](https://www.dataquest.io/blog/data-science-job-interviews-how-prepare/)
 - Top 30 data science questions with answers [[link]](https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c)
 - Excellent job search process (including brand statement, job application target) [[link]](https://towardsdatascience.com/2020-is-coming-practical-tips-for-landing-your-first-data-job-13f77aab1333)

@@ -13,6 +13,10 @@ Failure [[link]](https://itsonlychemo.wordpress.com/2019/05/02/failure/)
 > When you fail all you have to do is start the next thing. You are not in a prison camp. Failure isn’t your guard. You aren’t scrubbing boots or breaking rocks.
 Who cares if the others got there sooner or made it to a higher rock. You are not competing with them. You are competing with you.
 
+Most decisions are reversible, start making more [[link]](https://cynthiabellmcgillis.com/2019/05/16/some-thoughts-on-working-more-effectively/?ck_subscriber_id=334907275)
+
+
+
 
 The lie of time management [[link]](https://medium.com/@rwuebker/one-sixty-eight-558a4a25690e)
 
