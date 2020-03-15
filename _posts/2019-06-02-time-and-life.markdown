@@ -15,6 +15,10 @@ Who cares if the others got there sooner or made it to a higher rock. You are no
 
 Most decisions are reversible, start making more [[link]](https://cynthiabellmcgillis.com/2019/05/16/some-thoughts-on-working-more-effectively/?ck_subscriber_id=334907275)
 
+>If one more 22-year-old writes to me and bemoans the years they've wasted and how it's too late to start anything new at this point, I am going to set something on fire. [[link]](https://twitter.com/hhavrilesky/status/1201928197626982400)
+
+
+Give yourself task jubilees [[link]](https://twitter.com/Malcolm_Ocean/status/1212540697682829312)
 
 
 

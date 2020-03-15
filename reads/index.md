@@ -12,6 +12,8 @@ Aspiration / Agnes Callard
 
 Late in the Day / Tessa Hadley
 
+The Man Who Solved The Market /
+
 Titan: The Life of John D. Rockefeller, Sr / Ron Chernow
 
 Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground / Kevin Poulsen

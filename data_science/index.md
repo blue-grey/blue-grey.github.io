@@ -121,6 +121,7 @@ Great examples (and custom datasets):
 - Case study by company on using causal analysis with ML [[link]](https://multithreaded.stitchfix.com/blog/2019/12/19/good-marketing-decisions/)
 - Causal inference book, with code [[link]](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 - The Causal Analysis of Cannibalization in Online Products [[link]](https://codeascraft.com/2020/02/24/the-causal-analysis-of-cannibalization-in-online-products/?utm_campaign=The%20Data%20Science%20Roundup&utm_medium=email&utm_source=Revue%20newsletter)
+- All the DAGs from Hernan and Robins' Causal Inference Book [[link]](https://sgfin.github.io/2019/06/19/Causal-Inference-Book-All-DAGs/)
 
 ## AutoML
 - Towards Automated Machine Learning: Evaluation and Comparison of AutoML Approaches and Tools [[link]](https://arxiv.org/abs/1908.05557)
@@ -135,6 +136,7 @@ Great examples (and custom datasets):
 - Example SQL screener question [[link]](https://mattmazur.com/2018/11/12/analyzing-89-responses-to-a-sql-screener-question-for-a-senior-data-analyst-position/)
 - Learning SQL 201: Optimizing Queries, Regardless of Platform [[link]](https://towardsdatascience.com/learning-sql-201-optimizing-queries-regardless-of-platform-918a3af9c8b1)
 - A Cool SQL Problem: Avoiding For-Loops [[link]](https://ryxcommar.com/2019/08/05/a-cool-sql-problem-avoiding-for-loops/)
+    - with commentary [[link]](https://twitter.com/BecomingDataSci/status/1205941255932436482)
 - SQL interviews at the NYT [[link]](https://open.nytimes.com/a-window-into-our-sql-interviews-dcc9a8f756d8)
 - SQL live coding [[link]](https://twitter.com/BecomingDataSci/status/1178184449890095111)
 - Loooong SQL queries [[link]](https://twitter.com/b0rk/status/1175068822107279362)
@@ -143,6 +145,8 @@ Great examples (and custom datasets):
 - SQL query order [[link]](https://twitter.com/b0rk/status/1179449535938076673)
 - SQL Interview Questions: 3 Tech Screening Exercises (For Data Analysts) [[link]](https://data36.com/sql-interview-questions-tech-screening-data-analysts/)
 - Interesting Twitter thread on complicated SQL queries [[link]](https://twitter.com/b0rk/status/1175068822107279362?s=12)
+- SQL cheatsheet [[link]](https://twitter.com/b0rk/status/1184571894722449409)
+- thread: what are your favourite SQL / db performance resources? [[link]](https://twitter.com/b0rk/status/1206240455312265218)
 
 ## Modeling
 >A statistical model is a mathematical model which is modified or trained by the input of data points. Statistical models are often but not always probabilistic. Where the distinction is important we will be careful not to just say "statistical" but to use the following component terms:
@@ -159,6 +163,9 @@ A trained model uses some training/learning algorithm to take as input a collect
 - Comprehensive guide to NLP [[link]](https://github.com/microsoft/nlp-recipes/)
 
 ## Others
+- when saving data as .csv with `pandas`, use quoting=csv.QUOTE_NONNUMERIC
+- How to Build a Twitter Text-Generating AI Bot With GPT-2 [[link]](https://minimaxir.com/2020/01/twitter-gpt2-bot/)
+- `wandb`: visualizing multiple ML models by performance, with code [[link]](https://app.wandb.ai/lavanyashukla/visualize-sklearn/reports/Visualize-Scikit-Models--Vmlldzo0ODIzNg)
 - Google's Machine Learning Crash Course [[link]](https://developers.google.com/machine-learning/crash-course)
 - Visualizing K-Means Clustering [[link]](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
 - SO list of common statistical sins [[link]](https://stats.stackexchange.com/questions/4551/what-are-common-statistical-sins)
@@ -216,7 +223,7 @@ Create An API To Deploy Machine Learning Models Using Flask and Heroku [[link]](
 ## Cheatsheets & packages
 - Matplotlib
   - Cheatsheet [[link1]](https://github.com/rougier/matplotlib-cheatsheet)
-  - Figures hold axes, axes hold everything else [[link]](https://t.co/9sB9n7y6RB?amp=1)
+  - Figures hold axes, axes hold everything else [[link]](https://brohrer.github.io/matplotlib_going_deeper.html)
   - Very detailed guide to matplotlib [[link]](https://gist.github.com/akashpalrecha/4652e98c9b2f3f1961637be001dc0239)
   - Best guide to using Matplotlib [[link]](https://pbpython.com/effective-matplotlib.html)
 - econtools: econometric functions and convenient shortcuts for data work with pandas and numpy [[link]](https://github.com/dmsul/econtools)
@@ -250,7 +257,7 @@ Create An API To Deploy Machine Learning Models Using Flask and Heroku [[link]](
 - R & Python workflow [[link]](https://towardsdatascience.com/guide-to-r-and-python-in-a-single-jupyter-notebook-ff12532eb3ba)
 
 ## Machine learning
-- Online book on limitations of interpretable ML methods [[link]](https://compstat-lmu.github.io/iml_methods_limitations/)
+- Online book on limitations of interpretable ML methods, good for PDP plots [[link]](https://compstat-lmu.github.io/iml_methods_limitations/)
 - Optimal ML classification decision boundaries with very helpful animation [[link]](https://mathformachines.com/posts/decision/) [[gifs]](https://github.com/ryanholbrook/decision-boundaries-animations)
 - Building machine learning products: workflow [[link]](https://www.jeremyjordan.me/ml-requirements/)
 - [[course]](https://sites.google.com/view/marcdeisenroth/teaching/mooc-mathematics-for-machine-learning-pca)
@@ -268,7 +275,8 @@ Create An API To Deploy Machine Learning Models Using Flask and Heroku [[link]](
 - Reconciling modern machine learning practice and the bias-variance trade-off [[link]](https://arxiv.org/abs/1812.11118)
 
 ## Bayesian inference
-Python code [[link]](https://github.com/WillKoehrsen/ai-projects/blob/master/bayesian_inference/bayes_rule_applied.ipynb?source=post_page---------------------------)
+- Python code [[link]](https://github.com/WillKoehrsen/ai-projects/blob/master/bayesian_inference/bayes_rule_applied.ipynb?source=post_page---------------------------)
+- Bayesian version of Does model averaging make sense? code in R [[link]](https://avehtari.github.io/modelselection/collinear.html#4_variable_selection)
 
 ## Code Training
 - CodeWars (https://www.codewars.com/?language=python)
@@ -313,6 +321,11 @@ Make a Readme [[link]](https://www.makeareadme.com/)
 - BW data engineering guide [[link]](https://github.com/quinn-dougherty/build-week-survival-guide-data-engineering-machine-learning/blob/master/data-engineering-README.md)
 
 ## The Job Search...
+- Managing online presence tips [[link]](https://twitter.com/hadleywickham/status/1189971594778681344)
+    - Polish Github homepage, with profile pic
+    - Pin strong repos, concise but descriptive titles, add a Readme and include a plot/image
+    - Make a personal website
+- Very detailed, informative writeup of getting a job at Automattic [[link]](https://yanirseroussi.com/2017/07/29/my-10-step-path-to-becoming-a-remote-data-scientist-with-automattic/)
 - Zach Angell's DS hiring guide [[link]](https://github.com/zangell44/ds-hiring-guide)
 - SharpestMinds advice for job interviews [[link]](https://www.dataquest.io/blog/data-science-job-interviews-how-prepare/)
 - Top 30 data science questions with answers [[link]](https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c)
@@ -431,6 +444,8 @@ Bayesian Re-Analysis Challenge (2019)
 - Great writeup of data engineering tools [[link]](https://medium.com/@squarecog/five-interesting-data-engineering-projects-48ffb9c9c501)
 
 # Moat Building
+- Remaining relevant: [[link]](https://yanirseroussi.com/2020/01/11/software-commodities-are-eating-interesting-data-science-work/)
+    - get into causal inference! recommends Causal Inference by Miguel Hernán and Jamie
 - Knowing the difference between inference and prediction; knowledge about research design (statistical bias, bad counterfactuals, measurement, generalization, validity); causality; statistics. [^f17592c2]
 - Understand the business problem, go through data analysis, explain, show work via Github.[^33eac966]
 - Be sure you know the handful of things that you can do better than most anyone else. Add something to that list every year. Make sure you can explain these things to non techies.[^f2f694c7]
