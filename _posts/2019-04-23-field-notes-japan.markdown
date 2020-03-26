@@ -18,3 +18,5 @@ How to write a guide [[link]](https://medium.com/maxistentialism-blog/notes-from
 [[Utrecht/NOW IDeA]](https://www.instagram.com/p/BzuZbMUBY9N/?igshid=qxrs1mqdy5d5)
 
 [[Muji Hotel]](https://hotel.muji.com/ginza/en/facilities/)
+
+[[Ryokan]](https://www.homeikan.com/en-5)
