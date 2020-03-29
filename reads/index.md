@@ -128,7 +128,13 @@ My Education, American Woman, ~~Trust Exercise (this was too boring)~~ / Susan C
 
 Unmastered / [Katherine Angel](https://www.theguardian.com/books/2012/sep/02/unmastered-desire-katherine-angel-review) [[on writing Unmastered]](https://fsgworkinprogress.com/2013/06/13/on-writing-unmastered/)
 
-To Pixar & Beyond / Lawrence Levy 
+To Pixar & Beyond / Lawrence Levy
+
+The Office: The Untold Story of the Greatest Sitcom of the 2000s / Andy Green 
+
+**Finance**
+
+Good finance book [recommendations](https://news.ycombinator.com/item?id=22573204)
 
 **Intergenerational**
 
