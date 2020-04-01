@@ -61,7 +61,8 @@ Great examples (and custom datasets):
   - (Paper) 150 successful Machine Learning models: 6 lessons learned at Booking.com [[link]](https://www.kdd.org/kdd2019/accepted-papers/view/150-successful-machine-learning-models-6-lessons-learned-at-booking.com)
   - Beyond L2 Loss — How we experiment with loss functions at Lyft [[link]](https://eng.lyft.com/beyond-l2-loss-how-we-experiment-with-loss-functions-at-lyft-51f9303f5d2d)
   - Exploration of Nike's Vaporfly (clever data, data viz, multivariate statistical models, uncertainty accounted for) [[link]](https://t.co/5gQ7WRIFb0?amp=1)
-
+  - Liquidity modeling in real estate using survival analysis [[link]](https://www.opendoor.com/w/blog/liquidity-modeling-real-estate-survival-analysis?utm_campaign=Data_Elixir&utm_source=Data_Elixir_277)
+  - A True End-to-End ML Example: Lead Scoring [[link]](https://towardsdatascience.com/a-true-end-to-end-ml-example-lead-scoring-f5b52e9a3c80)
 
 ## Building a portfolio/website
 - Pin repos with strong work, have descriptive titles and a brief readme (include an image)
@@ -122,7 +123,7 @@ Great examples (and custom datasets):
 - Syncing a fork [[link]](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork)
 - Keeping a fork up to date [[link]](https://gist.github.com/CristinaSolana/1885435)
 
-## Causation
+## Causal ML
 - A Second Chance to Get Causal Inference Right: A Classification of Data Science Tasks [[link]](https://amstat.tandfonline.com/doi/full/10.1080/09332480.2019.1579578#.XWtAJZNKjBJ)
 - First workshop on bridging causal inference, RL and transfer learning [[link]](https://crt2019.github.io/)
 - Case study by company on using causal analysis with ML [[link]](https://multithreaded.stitchfix.com/blog/2019/12/19/good-marketing-decisions/)
@@ -130,6 +131,8 @@ Great examples (and custom datasets):
 - The Causal Analysis of Cannibalization in Online Products [[link]](https://codeascraft.com/2020/02/24/the-causal-analysis-of-cannibalization-in-online-products/?utm_campaign=The%20Data%20Science%20Roundup&utm_medium=email&utm_source=Revue%20newsletter)
 - All the DAGs from Hernan and Robins' Causal Inference Book [[link]](https://sgfin.github.io/2019/06/19/Causal-Inference-Book-All-DAGs/)
 - Syllabus for causal inference in data science [[link]](http://joshualoftus.com/page/ms4ds/)
+- recommendations for a well-written causal inference paper [[link]](https://twitter.com/david_sontag/status/1242254607465811968)
+- Scott Cunningham's CI book [[link]](http://www.scunning.com/causalinference_norap.pdf)
 
 ## AutoML
 - Towards Automated Machine Learning: Evaluation and Comparison of AutoML Approaches and Tools [[link]](https://arxiv.org/abs/1908.05557)
@@ -177,6 +180,7 @@ A trained model uses some training/learning algorithm to take as input a collect
     - answer [[link]](https://stats.stackexchange.com/questions/19715/why-does-a-time-series-have-to-be-stationary/19747#19747)
 
 ## Others
+- "Machine Learning code generally doesn’t throw errors, it just underperforms" [[link]](https://t.co/zIF0JhYb4j?amp=1)
 - Making a heatmap of gridsearch [[link]](https://twitter.com/TedPetrou/status/1196113338217877505)
 - Kaggle's feature engineering course [[link]](https://www.kaggle.com/learn/feature-engineering)
 - Important to report model uncertainty [[link]](https://twitter.com/MatDrinksTea/status/1224479932102803456)
