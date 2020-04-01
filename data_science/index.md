@@ -63,6 +63,7 @@ Great examples (and custom datasets):
   - Exploration of Nike's Vaporfly (clever data, data viz, multivariate statistical models, uncertainty accounted for) [[link]](https://t.co/5gQ7WRIFb0?amp=1)
   - Liquidity modeling in real estate using survival analysis [[link]](https://www.opendoor.com/w/blog/liquidity-modeling-real-estate-survival-analysis?utm_campaign=Data_Elixir&utm_source=Data_Elixir_277)
   - A True End-to-End ML Example: Lead Scoring [[link]](https://towardsdatascience.com/a-true-end-to-end-ml-example-lead-scoring-f5b52e9a3c80)
+  - [Used scraped data] Analyzing E-Scooter Activity through Visualization and Machine learning in Python [[link]](https://towardsdatascience.com/analyzing-e-scooter-activity-through-visualization-and-machine-learning-in-python-a33585b2c29)
 
 ## Building a portfolio/website
 - Pin repos with strong work, have descriptive titles and a brief readme (include an image)
@@ -308,7 +309,7 @@ Create An API To Deploy Machine Learning Models Using Flask and Heroku [[link]](
 - Animations with receiver operating characteristic and precision-recal curves [[link]](https://github.com/dariyasydykova/open_projects/tree/master/ROC_animation)
 - Machine Learning Model Evaluation: Visual & Interactive [[link]](https://machine-learning-visualization.herokuapp.com/)
 - Python Libraries for Interpretable Machine Learning [[link]](https://towardsdatascience.com/python-libraries-for-interpretable-machine-learning-c476a08ed2c7)
-- A visual introduction to machine learning
+- A great visual introduction to machine learning
 [[link]](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - Machine Learning Model Evaluation: Visual & Interactive [[link]](https://machine-learning-visualization.herokuapp.com/)
 - ML Reproducibility Checklist [[link]](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)
@@ -367,6 +368,9 @@ Make a Readme [[link]](https://www.makeareadme.com/)
 - BW data engineering guide [[link]](https://github.com/quinn-dougherty/build-week-survival-guide-data-engineering-machine-learning/blob/master/data-engineering-README.md)
 
 ## The Job Search...
+- Use jobscan to cross-check resume and job description [[link]](https://www.jobscan.co/)
+- Github repo of technical and theoretical DS questions (with code!) [[link]](https://github.com/elliotgunn/data-science-interviews)
+- Data science interview questions [[link]](https://www.interviewquery.com/)
 - Brandon Rohr's guide to a DS career [[link]](https://end-to-end-machine-learning.teachable.com/p/navigating-a-data-science-career/)
 - Why you should have ~3 essays on your site and how to operationalize them [[link]](https://twitter.com/patio11/status/1235088344066842624)
     - You can use them as a proof-of-work in cold or coldish 1:1 reachouts like e.g. to hiring managers for jobs you want. It puts you *so far ahead* of the average reachout.
@@ -486,8 +490,17 @@ Follow up: design a better measure.
 - Binary Dependent Variable? … Just use OLS [[link]](https://jeffbloem.wordpress.com/2019/09/06/binary-dependent-variable-just-use-ols/)
 - Data Science Portofolios [[link]](https://twitter.com/BecomingDataSci/status/1177658356632358913)
 - SQL portfolio projects [[link]](https://twitter.com/OmSteadily/status/1178153389747654658)
+- Example DS portfolio websites with great copy
+    - [[link]](https://tselai.com/pages/consulting.html)
+    -
 
 ## Interesting
+- Creating an FAQ style for a resource page:
+    - CV FAQ [[link]](https://avehtari.github.io/modelselection/CV-FAQ.html)
+- Notion resource on ML (many great lists) [[link]](https://www.notion.so/Lavanya-ai-d43ba856316e47ab98969ab4a613c629)
+- Really great article [[link]](https://tselai.com/modern-data-practice-and-the-sql-tradition.html)
+> Suppose you are a data scientist: Chances are your Jupyter notebook has a pretty standard format. The first cells are used to build a DataFrame populated with data from a CSV file or a database query. Pandas pros can even do this in one single line as they know that the DataFrame constructor provides a lot of arguments. Typically this DataFrame has a few columns at first. And then “feature engineering” begins and creative-constructive chaos ensues: more columns are added subsequently to the dataset and it grows horizontally. Novices will be tempted to write for-loops to add more columns; if you are a more seasoned professional though you will squeeze some more juice from your machine and use vectorized operations instead. Practically this means that you use one-liners sequentially to define your columns as there’s probably already an implemented function you’re just calling and applying on each cell. You may still be thinking procedurally in your head (that for-loop temptation is still there) but in essence, you are doing declarative programming. You are not defining how your independent variable is calculated but rather what is its meaning: this preference for “what” instead of “how” is the essence of declarative programming.
+
 - K-nearest neighbour guide [[link]](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/)
 - dan luu's blog [[link]](https://danluu.com/)
 Bayesian Re-Analysis Challenge (2019)
