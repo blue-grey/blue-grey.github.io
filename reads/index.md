@@ -14,6 +14,8 @@ Late in the Day / Tessa Hadley
 
 The Man Who Solved The Market /
 
+~~Advice Not Given: A Guide to Getting Over Yourself / Mark Epstein~~ Absolutely incredible read.
+
 ~~The Memory Police / Yoko Ogawa~~
 
 ~~Vengence is Mine, all Others Pay Cash / Eka Kurniawan~~
@@ -130,7 +132,7 @@ Unmastered / [Katherine Angel](https://www.theguardian.com/books/2012/sep/02/unm
 
 To Pixar & Beyond / Lawrence Levy
 
-The Office: The Untold Story of the Greatest Sitcom of the 2000s / Andy Green 
+The Office: The Untold Story of the Greatest Sitcom of the 2000s / Andy Green
 
 **Finance**
 
