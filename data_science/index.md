@@ -523,6 +523,12 @@ Bayesian Re-Analysis Challenge (2019)
 - Great writeup of data engineering tools [[link]](https://medium.com/@squarecog/five-interesting-data-engineering-projects-48ffb9c9c501)
 
 # Moat Building
+- Don't call yourself a programmer [[link]](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
+    - You really want to be attached to Profit Centers because it will bring you higher wages, more respect, and greater opportunities for everything of value to you.
+    - Instead, describe yourself by what you have accomplished for previously employers vis-a-vis increasing revenues or reducing costs.  If you have not had the opportunity to do this yet, describe things which suggest you have the ability to increase revenue or reduce costs, or ideas to do so.
+    - You radically overestimate the average skill of the competition because of the crowd you hang around with
+    - Most jobs are never available publicly, just like most worthwhile candidates are not available publicly (see here).  Information about the position travels at approximately the speed of beer, sometimes lubricated by email.  The decisionmaker at a company knows he needs someone.  He tells his friends and business contacts.  One of them knows someone — family, a roommate from college, someone they met at a conference, an ex-colleague, whatever.  Introductions are made, a meeting happens, and they achieve agreement in principle on the job offer.  Then the resume/HR department/formal offer dance comes about.
+    -
 - Remaining relevant: [[link]](https://yanirseroussi.com/2020/01/11/software-commodities-are-eating-interesting-data-science-work/)
     - get into causal inference! recommends Causal Inference by Miguel Hernán and Jamie
 - Knowing the difference between inference and prediction; knowledge about research design (statistical bias, bad counterfactuals, measurement, generalization, validity); causality; statistics. [^f17592c2]
