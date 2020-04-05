@@ -80,9 +80,9 @@ The Curious History of India’s Relations with Pakistan / T.C.A. Raghavan
 
 The Spider Network / David Enrich
 
-Uncanny Valley / Mike Isaac
+~~Uncanny Valley / [Anna Wiener](https://mobile.twitter.com/jiatolentino/status/1147537351436058626)~~
 
-Super Pumped / [Anna Wiener](https://mobile.twitter.com/jiatolentino/status/1147537351436058626)
+Super Pumped / Mike Isaac
 
 ~~Lightning Rods / Helen Dewitt~~
 
