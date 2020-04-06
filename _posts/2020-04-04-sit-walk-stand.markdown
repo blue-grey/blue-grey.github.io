@@ -5,7 +5,7 @@ date:   2020-04-04 22:33:40 -0400
 categories:
 ---
 
-Watchman Nee's Sit, Walk Stand
+A mentor had recommended Watchman Nee's Sit, Walk Stand years ago, and I've just now gotten to read the slim little book. It's quite good, with a really simple and compelling thesis about Ephesians. 
 
 1. Sit
 > Christianity does not begin with walking; it begins with sitting...If at the outset we try to do anything, we get nothing; if we seek to attain something, we miss everything. For Christianity begins not with a big DO, but with a big DONE. Thus Ephesians opens with the statement that God has “blessed us with every spiritual blessing in the heavenly places in Christ” (1:3) and we are invited at the very outset to sit down and enjoy what God has done for us; not to set out to try and attain it for ourselves.
@@ -26,4 +26,16 @@ Watchman Nee's Sit, Walk Stand
 
 > So, my brethren, don’t stand on your right. Don’t feel that because you have gone the second mile you have done what is just. The second mile is only typical of the third and the fourth. The principle is that of conformity to Christ. We have nothing to stand for, nothing to ask or demand. We have only to give. When the Lord Jesus died on the cross, He did not do so to defend our “rights”; it was grace that took Him there. Now, as His children, we try always to give others what is their due and more.
 
-> 
+>
+
+
+
+3. Stand
+
+> When you fight to get the victory, then you have lost the battle at the very outset.
+
+> Observe first the action of Peter in dealing with the crippled man at the gate. He does not kneel and pray and ask the mind of the Lord first. At once he says, “Walk.” He uses the name as if it were his to use, not something far away in heaven.
+
+> God never asks us to do anything we can do. He asks us to live a life which we can never live and to do a work which we can never do. Yet, by His grace, we are living it and doing it.
+
+> Do you see what it means to “stand”? We do not try to gain ground; we merely stand on the ground which the Lord Jesus has gained for us, and resolutely refuse to be moved from it.
