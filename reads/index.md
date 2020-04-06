@@ -84,7 +84,11 @@ The Spider Network / David Enrich
 
 Super Pumped / Mike Isaac
 
+~~Sit Walk Stand / Watchman Nee~~
+
 ~~Lightning Rods / Helen Dewitt~~
+
+~~The Seventh Day / Yu Hua~~
 
 Some Trick / Helen Dewitt, who is a very [interesting person](http://www.full-stop.net/2019/06/05/interviews/ben-streeter/helen-dewitt/)
 

@@ -181,6 +181,7 @@ A trained model uses some training/learning algorithm to take as input a collect
     - answer [[link]](https://stats.stackexchange.com/questions/19715/why-does-a-time-series-have-to-be-stationary/19747#19747)
 
 ## Others
+- Great guide to encoding categorical data [[link]](https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159)
 - "Machine Learning code generally doesn’t throw errors, it just underperforms" [[link]](https://t.co/zIF0JhYb4j?amp=1)
 - Making a heatmap of gridsearch [[link]](https://twitter.com/TedPetrou/status/1196113338217877505)
 - Kaggle's feature engineering course [[link]](https://www.kaggle.com/learn/feature-engineering)

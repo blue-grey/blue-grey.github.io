@@ -5,6 +5,15 @@ date:   2019-08-04 00:30:40 -0400
 categories:
 ---
 
+### Crying
+[The Lost Art of Crying](https://nibrasi.co.uk/the-lost-art-of-crying): lots of resources at the end to therapeutic frameworks
+
+[QC's sob thread](https://twitter.com/QiaochuYuan/status/1246952231963742208)   
+
+
+
+
+
 [Joe Hudson: Frameworks for Self-Development](https://www.youtube.com/watch?v=VyEoQy4rcBw)
 - progress is circular and linear
 - [thread](https://twitter.com/msutherl/status/1237453582665789440) I got it from
