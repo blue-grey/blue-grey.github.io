@@ -138,6 +138,8 @@ To Pixar & Beyond / Lawrence Levy
 
 The Office: The Untold Story of the Greatest Sitcom of the 2000s / Andy Green
 
+The Ragamuffin Gospel / Brennan Manning
+
 **Finance**
 
 Good finance book [recommendations](https://news.ycombinator.com/item?id=22573204)
