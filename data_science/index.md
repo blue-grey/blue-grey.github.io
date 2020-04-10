@@ -86,6 +86,7 @@ Great examples (and custom datasets):
 
 ## Time Series
 - Code walkthrough [[link]](https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices)
+- Time series forecasting best practices by Microsoft [[link]](https://github.com/microsoft/forecasting?utm_campaign=Data_Elixir&utm_source=Data_Elixir_280)
 
 ## Open Data
 - Jordà-Schularick-Taylor Macrohistory Database [[link]](http://www.macrohistory.net/data/)
@@ -496,6 +497,7 @@ Follow up: design a better measure.
     -
 
 ## Interesting
+- Interesting reddit thread "What does your modern ML-in-Production Infrastructure look like?" [[link]](https://www.reddit.com/r/MachineLearning/comments/fvfeps/d_what_does_your_modern_mlinproduction/)
 - Creating an FAQ style for a resource page:
     - CV FAQ [[link]](https://avehtari.github.io/modelselection/CV-FAQ.html)
 - Notion resource on ML (many great lists) [[link]](https://www.notion.so/Lavanya-ai-d43ba856316e47ab98969ab4a613c629)
