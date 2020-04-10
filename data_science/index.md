@@ -135,6 +135,7 @@ Great examples (and custom datasets):
 - Syllabus for causal inference in data science [[link]](http://joshualoftus.com/page/ms4ds/)
 - recommendations for a well-written causal inference paper [[link]](https://twitter.com/david_sontag/status/1242254607465811968)
 - Scott Cunningham's CI book [[link]](http://www.scunning.com/causalinference_norap.pdf)
+- Bruce E. Hansen's econometrics book [[link]](https://www.ssc.wisc.edu/~bhansen/econometrics/Econometrics.pdf)
 
 ## AutoML
 - Towards Automated Machine Learning: Evaluation and Comparison of AutoML Approaches and Tools [[link]](https://arxiv.org/abs/1908.05557)
