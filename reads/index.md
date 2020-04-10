@@ -140,6 +140,13 @@ The Office: The Untold Story of the Greatest Sitcom of the 2000s / Andy Green
 
 The Ragamuffin Gospel / Brennan Manning
 
+The Glass Hotel / Emily St. Mandel
+
+New Waves / Kevin Nguyen
+
+How to Live Safely in a Science Fictional Universe / Charles Yu
+
+
 **Finance**
 
 Good finance book [recommendations](https://news.ycombinator.com/item?id=22573204)
