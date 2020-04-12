@@ -177,6 +177,7 @@ A trained model uses some training/learning algorithm to take as input a collect
 ## NLP
 - Comprehensive guide to NLP [[link]](https://github.com/microsoft/nlp-recipes/)
 - Short Kaggle course on NLP [[link]](https://www.kaggle.com/learn/natural-language-processing)
+- Great blog overview [[link]](https://opendatascience.com/unsupervised-nlp-how-i-learned-to-love-the-data/?utm_campaign=Newsletters&utm_source=hs_email&utm_medium=email&utm_content=86095154&_hsenc=p2ANqtz--OCVZyMw6SZUzwmWsKnHzgJet7qNEsQVBuR34pkXbxagqUc-YWQav0T6D-qGBG1EMGWiK6QgEf1GiK5jVrWx9NLv5AIw&_hsmi=86095154)
 
 ## Time Series
 - Why does covariance stationarity mean that we can make causal inferences? [[link]](https://twitter.com/tyleransom/status/1192059625211912192)
