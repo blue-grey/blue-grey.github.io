@@ -140,7 +140,7 @@ The Office: The Untold Story of the Greatest Sitcom of the 2000s / Andy Green
 
 The Ragamuffin Gospel / Brennan Manning
 
-The Glass Hotel / Emily St. Mandel
+~~The Glass Hotel / Emily St. John Mandel~~ Unexpectedly meditative read on financial crimes. 
 
 New Waves / Kevin Nguyen
 
