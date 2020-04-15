@@ -63,7 +63,9 @@ Great examples (and custom datasets):
   - Exploration of Nike's Vaporfly (clever data, data viz, multivariate statistical models, uncertainty accounted for) [[link]](https://t.co/5gQ7WRIFb0?amp=1)
   - Liquidity modeling in real estate using survival analysis [[link]](https://www.opendoor.com/w/blog/liquidity-modeling-real-estate-survival-analysis?utm_campaign=Data_Elixir&utm_source=Data_Elixir_277)
   - A True End-to-End ML Example: Lead Scoring [[link]](https://towardsdatascience.com/a-true-end-to-end-ml-example-lead-scoring-f5b52e9a3c80)
-  - [Used scraped data] Analyzing E-Scooter Activity through Visualization and Machine learning in Python [[link]](https://towardsdatascience.com/analyzing-e-scooter-activity-through-visualization-and-machine-learning-in-python-a33585b2c29)
+  - [Great example of using scraped data] Analyzing E-Scooter Activity through Visualization and Machine learning in Python [[link]](https://towardsdatascience.com/analyzing-e-scooter-activity-through-visualization-and-machine-learning-in-python-a33585b2c29)
+  - How Shopify Capital Uses Quantile Regression To Help Merchants Succeed [[link]](https://engineering.shopify.com/blogs/engineering/how-shopify-uses-machine-learning-to-help-our-merchants-grow-their-business)
+  - Predicting Initial Unemployment Insurance Claims Using Google Trends [[link]](https://paulgp.github.io/GoogleTrendsUINowcast/google_trends_UI.html?utm_campaign=The%20Data%20Science%20Roundup&utm_medium=email&utm_source=Revue%20newsletter)
 
 ## Building a portfolio/website
 - Pin repos with strong work, have descriptive titles and a brief readme (include an image)
