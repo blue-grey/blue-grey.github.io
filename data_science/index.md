@@ -66,6 +66,7 @@ Great examples (and custom datasets):
   - [Great example of using scraped data] Analyzing E-Scooter Activity through Visualization and Machine learning in Python [[link]](https://towardsdatascience.com/analyzing-e-scooter-activity-through-visualization-and-machine-learning-in-python-a33585b2c29)
   - How Shopify Capital Uses Quantile Regression To Help Merchants Succeed [[link]](https://engineering.shopify.com/blogs/engineering/how-shopify-uses-machine-learning-to-help-our-merchants-grow-their-business)
   - Predicting Initial Unemployment Insurance Claims Using Google Trends [[link]](https://paulgp.github.io/GoogleTrendsUINowcast/google_trends_UI.html?utm_campaign=The%20Data%20Science%20Roundup&utm_medium=email&utm_source=Revue%20newsletter)
+  - Under the Hood of Uber ATG’s Machine Learning Infrastructure and Versioning Control Platform for Self-Driving Vehicles [[link]](https://eng.uber.com/machine-learning-model-life-cycle-version-control/)
 
 ## Building a portfolio/website
 - Pin repos with strong work, have descriptive titles and a brief readme (include an image)
@@ -180,6 +181,7 @@ A trained model uses some training/learning algorithm to take as input a collect
 - Comprehensive guide to NLP [[link]](https://github.com/microsoft/nlp-recipes/)
 - Short Kaggle course on NLP [[link]](https://www.kaggle.com/learn/natural-language-processing)
 - Great blog overview [[link]](https://opendatascience.com/unsupervised-nlp-how-i-learned-to-love-the-data/?utm_campaign=Newsletters&utm_source=hs_email&utm_medium=email&utm_content=86095154&_hsenc=p2ANqtz--OCVZyMw6SZUzwmWsKnHzgJet7qNEsQVBuR34pkXbxagqUc-YWQav0T6D-qGBG1EMGWiK6QgEf1GiK5jVrWx9NLv5AIw&_hsmi=86095154)
+- Very long and detailed post on tokenization[[link]](https://blog.floydhub.com/tokenization-nlp/)
 
 ## Time Series
 - Why does covariance stationarity mean that we can make causal inferences? [[link]](https://twitter.com/tyleransom/status/1192059625211912192)
@@ -357,7 +359,7 @@ Reproducible assignments with R-markdown [[link]](https://www.r-spatial.org/r/20
 
 ## Statistics
 - Caltech's probability distribution explorer (with Python code) [[link]](http://bois.caltech.edu/distribution_explorer/)
-- Understanding MLE (with interactive visuals) [[link]](https://rpsychologist.com/d3/likelihood/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_272)
+- Understanding MLE (with interactive visuals) and many other statistical concepts [[link]](https://rpsychologist.com/d3/likelihood/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_272)
 - Common statistical tests are linear models (really great cheatsheet with code) [[link]](https://eigenfoo.xyz/tests-as-linear/)
 
 ## Documentation
@@ -374,6 +376,8 @@ Make a Readme [[link]](https://www.makeareadme.com/)
 - BW data engineering guide [[link]](https://github.com/quinn-dougherty/build-week-survival-guide-data-engineering-machine-learning/blob/master/data-engineering-README.md)
 
 ## The Job Search...
+- Data science job search during covid 19 [[link]](https://towardsdatascience.com/whats-happened-to-the-data-science-job-market-in-the-past-month-88c748a4cd25)
+    - What works better is cold emailing and LinkedIn outreach. There’s a lot of detail involved in doing these really well — but the quick version is: 1) Do your research on the company; 2) Send a thoughtful, well-crafted message; and 3) Talk about concrete things you’ve built or accomplished.
 - Use jobscan to cross-check resume and job description [[link]](https://www.jobscan.co/)
 - Github repo of technical and theoretical DS questions (with code!) [[link]](https://github.com/elliotgunn/data-science-interviews)
 - Data science interview questions [[link]](https://www.interviewquery.com/)
@@ -525,6 +529,10 @@ Bayesian Re-Analysis Challenge (2019)
 - Missing data [[link]](https://towardsdatascience.com/explainability-of-missing-data-replacements-8eb164d68222)
 
 > I like scikit-learn's consistent use of fit_transform and transform. It's nice to have a mental gap between "things I can do to the training data" and "things I can do to the test data".
+
+# Recommended books
+- [[link]](https://www.amazon.com/gp/customer-reviews/R2ANUESM3SUYTC?ref=pf_vv_at_pdctrvw_srp)
+- [[link]](https://www.amazon.com/gp/customer-reviews/R1T3LVALJ9I2HM?ref=pf_vv_at_pdctrvw_srp)
 
 # Data Engineering
 - Great writeup of data engineering tools [[link]](https://medium.com/@squarecog/five-interesting-data-engineering-projects-48ffb9c9c501)
