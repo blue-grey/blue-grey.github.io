@@ -15,3 +15,7 @@ Cowen's daily practice
 Be critical of passive expertise, or 'older and wiser'. It's just not true.
 
 >The marginal cost of giving advice is way lower than of taking it, even if, on the whole, most people should take more small risks and therefore follow more, possibly bad, advice.
+
+
+Amy Finklestein's production function
+>  Her formula for success is simple: she works consistently and very hard on a subject that energizes her, continually searching for data that can be applied to pressing medical questions.
