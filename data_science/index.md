@@ -256,12 +256,13 @@ A trained model uses some training/learning algorithm to take as input a collect
 - Global labor flow network (Linkedin data) [[link]](https://www.nature.com/articles/s41467-019-11380-w)
 
 ## Flask
+- This the web application that accepts requests and returns responses depending on that request.
 - Video walkthrough of how to an ML model with Flask and Heroku (from SharpestMinds) [[link]](https://www.youtube.com/watch?v=OdYpNM05e9w)
 Create An API To Deploy Machine Learning Models Using Flask and Heroku [[link]](https://towardsdatascience.com/create-an-api-to-deploy-machine-learning-models-using-flask-and-heroku-67a011800c50)
 - HTTP [[link]](https://gumroad.com/l/http-zine)
 - Detailed guide to building a Flask ML app [[link]](https://towardsdatascience.com/build-a-react-flask-app-that-suggests-novel-novels-with-a-python-graph-9491e714bbdf)
 - Very good walkthrough on deploying models to Flask [[link]](Deploying Models to Flask)
--
+- Great tutorial on Flask, Heroku [[link]](https://towardsdatascience.com/build-a-simple-web-app-with-github-pages-flask-and-heroku-bcb2dacc8331)
 
 ## Unit Test
 - How to unit test machine learning code. [[link]](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)
@@ -376,6 +377,9 @@ Make a Readme [[link]](https://www.makeareadme.com/)
 - BW data engineering guide [[link]](https://github.com/quinn-dougherty/build-week-survival-guide-data-engineering-machine-learning/blob/master/data-engineering-README.md)
 
 ## The Job Search...
+- Takehomes (how the company grades)
+    - catch natural outliers or edge cases that the company deals with day to day [[link]](https://opendatascience.com/data-driven-interviewing-hiring-a-data-scientist/?utm_campaign=Newsletters&utm_source=hs_email&utm_medium=email&utm_content=86384139&_hsenc=p2ANqtz-_J7SUPatMDPqqo2kKfDnZlz3vxIec6WwUb7bs2nCtGygMdOk0CpFh9DgzmhIm1Lsyy3vW8yO8ExF-gkC8OyP8m2epEGw&_hsmi=86384139)
+    - The rubric gives approximately equal weighting to coding, machine learning, and business know-how. [[link]](https://making.dia.com/hiring-data-scientists-a-classification-problem-456affe73592)
 - Data science job search during covid 19 [[link]](https://towardsdatascience.com/whats-happened-to-the-data-science-job-market-in-the-past-month-88c748a4cd25)
     - What works better is cold emailing and LinkedIn outreach. There’s a lot of detail involved in doing these really well — but the quick version is: 1) Do your research on the company; 2) Send a thoughtful, well-crafted message; and 3) Talk about concrete things you’ve built or accomplished.
 - Use jobscan to cross-check resume and job description [[link]](https://www.jobscan.co/)
@@ -505,6 +509,11 @@ Follow up: design a better measure.
     -
 
 ## Interesting
+- becoming an 80th percentile ML-er [[link]](https://twitter.com/economeager/status/1187319678210920450)
+    - very good refresher on ML concepts [[link]](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.31.2.87)
+- Creating sparklines [[link]](https://dzone.com/articles/python-3-create-sparklines-using-matplotlib)
+- Jupyter notebook of how to use expected value in a business application
+[[link]](https://github.com/podopie/DAT18NYC/blob/master/classes/13-expected_value_cost_benefit_analysis.ipynb)
 - Interesting reddit thread "What does your modern ML-in-Production Infrastructure look like?" [[link]](https://www.reddit.com/r/MachineLearning/comments/fvfeps/d_what_does_your_modern_mlinproduction/)
 - Creating an FAQ style for a resource page:
     - CV FAQ [[link]](https://avehtari.github.io/modelselection/CV-FAQ.html)

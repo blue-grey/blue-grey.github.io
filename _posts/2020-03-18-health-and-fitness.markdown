@@ -14,3 +14,5 @@ Nomadic posture thread (!) [[link]](https://twitter.com/crunchythud/status/12131
 Swap out fat out for lean muscle [[link]](https://twitter.com/tranhelen/status/1234133636477280264)
 
 BUT YOU ARE NOT LAZY IF YOU ARE WAKING UP AT NOON [[link]](https://twitter.com/syedmoinhassan/status/1234169466994536450)
+
+Detailed workout routine during isolation [[link]](https://twitter.com/msutherl/status/1242872264808214529)

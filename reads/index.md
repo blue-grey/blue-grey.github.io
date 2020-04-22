@@ -122,6 +122,10 @@ My Family and Other Animals / Gerald Durrell
 
 My Education, American Woman, ~~Trust Exercise (this was too boring)~~ / Susan Choi
 
+Working / Robert Caro
+
+Revolting Prostitutes / [Juno Mac and Molly Smith](https://www.chronicle.com/article/The-Best-Scholarly-Books-of/248514?key=wD5N8zUKkQDLHNwlH_yTVreOC_n4bGbNhO9ufT8O6yyrk9N8gVjqoL_Gw2-laE8LTE9DeXNGS1prNmp3dDhRTkxKclJsTXFhUWd0UEFEX1ltMTJ6dTVFLTJqMA)
+
 ~~Serve the People! / [Yan Lianke](https://www.newyorker.com/magazine/2018/10/15/yan-liankes-forbidden-satires-of-china)~~ This was great.
 
 ~~On Earth We're Briefly Gorgeous / Ocean Vuong~~ This picked up towards the second half.
@@ -140,7 +144,7 @@ The Office: The Untold Story of the Greatest Sitcom of the 2000s / Andy Green
 
 The Ragamuffin Gospel / Brennan Manning
 
-~~The Glass Hotel / Emily St. John Mandel~~ Unexpectedly meditative read on financial crimes. 
+~~The Glass Hotel / Emily St. John Mandel~~ Unexpectedly meditative read on financial crimes.
 
 New Waves / Kevin Nguyen
 
