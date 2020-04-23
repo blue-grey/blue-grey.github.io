@@ -32,3 +32,6 @@ strategies for long distance [[link]](https://twitter.com/alexakmeyer/status/122
 
 
 > This is a very common emotional trap that married people fall into: they confuse their own private avoidance of feelings with an absence of feeling for the other person...In your current state of focusing on your husband and on FIXING your relationship, you’re in danger of believing that his numbness means he doesn’t love you enough. Let go of that story right now. This moment in your lives together is very unique, and it isn’t personal. Even if your husband said to you, “I don’t know how I feel anymore,” under your current conditions, I wouldn’t necessarily take that personally. I know that sounds fucking INSANE, but the man is trying to avoid mourning his mother. That is a specific, life-changing event. It is exceedingly difficult to show up for someone else when you’re going through that. And now the world is upside down. You’re going to have to take a deep breath and dig deep to keep yourself feeling good and safe and calm under these conditions, okay?
+
+
+I love transparency in relationships, platonic or romantic. I don't wanna have to ask you how you feel about me. I wanna see it, feel it, and know it. [[link]](https://twitter.com/Eyedalis/status/1242138915487780866)

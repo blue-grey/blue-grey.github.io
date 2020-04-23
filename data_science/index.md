@@ -90,6 +90,7 @@ Great examples (and custom datasets):
 ## Time Series
 - Code walkthrough [[link]](https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices)
 - Time series forecasting best practices by Microsoft [[link]](https://github.com/microsoft/forecasting?utm_campaign=Data_Elixir&utm_source=Data_Elixir_280)
+- Detailed tweet thread on Prophet library [[link]](https://twitter.com/seanjtaylor/status/1123278380369973248)
 
 ## Open Data
 - Jordà-Schularick-Taylor Macrohistory Database [[link]](http://www.macrohistory.net/data/)
@@ -139,6 +140,8 @@ Great examples (and custom datasets):
 - recommendations for a well-written causal inference paper [[link]](https://twitter.com/david_sontag/status/1242254607465811968)
 - Scott Cunningham's CI book [[link]](http://www.scunning.com/causalinference_norap.pdf)
 - Bruce E. Hansen's econometrics book [[link]](https://www.ssc.wisc.edu/~bhansen/econometrics/Econometrics.pdf)
+- Empirical papers for teaching CI [[link]](https://t.co/Y2RUlZCcDy?amp=1)
+- CI bootcamp: 2-5 min vides of every concept! [[link]](https://mattmasten.github.io/bootcamp/)
 
 ## AutoML
 - Towards Automated Machine Learning: Evaluation and Comparison of AutoML Approaches and Tools [[link]](https://arxiv.org/abs/1908.05557)
@@ -177,15 +180,27 @@ A trained model uses some training/learning algorithm to take as input a collect
 - Great guide to using predicted probabilities for a threshold model [[link]](https://blog.insightdatascience.com/visualizing-machine-learning-thresholds-to-make-better-business-decisions-4ab07f823415)
 - Goes beyond introductory texts on dealing with overfitting in prediction and inference problems [[link]](https://www.alexpghayes.com/blog/overfitting-a-guided-tour/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_267)
 
+## Web Scraping
+- Lecture 6: Webscraping: (1) Server-side and CSS. [[link]](https://t.co/DVsX5DmIfb?amp=1)
+- Lecture 7: Webscraping: (2) Client-side and APIs. [[link]](https://t.co/eeAc7dezbW?amp=1)
+
 ## NLP
+- Etsy case study: The Difference Between a Click and a Cart-Add: Learning Interaction-Specific Embeddings [[link]](https://www.dsml.etsy.com/publication-summaries/item-interaction-embeddings-www-2020)
+- Reading list for NLP [[link]](https://t.co/Pq6IfUmfT4?amp=1)
 - Comprehensive guide to NLP [[link]](https://github.com/microsoft/nlp-recipes/)
 - Short Kaggle course on NLP [[link]](https://www.kaggle.com/learn/natural-language-processing)
 - Great blog overview [[link]](https://opendatascience.com/unsupervised-nlp-how-i-learned-to-love-the-data/?utm_campaign=Newsletters&utm_source=hs_email&utm_medium=email&utm_content=86095154&_hsenc=p2ANqtz--OCVZyMw6SZUzwmWsKnHzgJet7qNEsQVBuR34pkXbxagqUc-YWQav0T6D-qGBG1EMGWiK6QgEf1GiK5jVrWx9NLv5AIw&_hsmi=86095154)
 - Very long and detailed post on tokenization[[link]](https://blog.floydhub.com/tokenization-nlp/)
+- Helpful (and gorgeous) 3D representation of a transformer [[link]](https://twitter.com/javier_a2/status/1251202591045844992)
 
 ## Time Series
 - Why does covariance stationarity mean that we can make causal inferences? [[link]](https://twitter.com/tyleransom/status/1192059625211912192)
     - answer [[link]](https://stats.stackexchange.com/questions/19715/why-does-a-time-series-have-to-be-stationary/19747#19747)
+
+# Gradient boosting
+- Post on asymmetric loss functions and an example in LightGBM [[link]](https://t.co/am7U78m60X?amp=1)
+    - One underused application for this is quantile regression, which LightGBM added a couple of years ago. E.g., compute your predictions' margins of error without making distributional assumptions [[link]](https://twitter.com/deronaucoin/status/1247227133950189573)
+
 
 ## Others
 - Great guide to encoding categorical data [[link]](https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159)
@@ -208,6 +223,8 @@ A trained model uses some training/learning algorithm to take as input a collect
     - takeaway: you need ID strateg if you have a causal inference question, while prediction questions do not rely on such strateg. [[link]](https://twitter.com/sebcos/status/1217271033213997056)
  and Spiess put it in their JEP: beta_hat vs. y_hat
 - Giant notebook with cool Python tricks [[link]](https://github.com/chiphuyen/python-is-cool/blob/master/cool-python-tips.ipynb) and the original thread for more responses [[link]](https://twitter.com/chipro/status/1186651526338465792)
+- to find out size & shape of what you're consuming def infinite_defaultdict():
+    return collections.defaultdict(infinite_defaultdict) [[link]](https://twitter.com/hugobowne/status/1246437952932085760)
 - Validating models [[link]](https://twitter.com/jim_savage_/status/1201140767911284736)
 - when saving data as .csv with `pandas`, use quoting=csv.QUOTE_NONNUMERIC
 - How to Build a Twitter Text-Generating AI Bot With GPT-2 [[link]](https://minimaxir.com/2020/01/twitter-gpt2-bot/)
@@ -275,6 +292,7 @@ Create An API To Deploy Machine Learning Models Using Flask and Heroku [[link]](
   - Best guide to using Matplotlib [[link]](https://pbpython.com/effective-matplotlib.html)
 - econtools: econometric functions and convenient shortcuts for data work with pandas and numpy [[link]](https://github.com/dmsul/econtools)
 - default export to: pandas to_csv()'s quoting=csv.QUOTE_NONNUMERIC [[link]](https://twitter.com/pybokeh/status/1216312458694053888?s=20)
+- Fonts: IBM Plex and JetBrains Mono in beautiful graph [[link]](https://twitter.com/geokaramanis/status/1247586395876741120)
 
 ## R
 - ACLU: we use the Tidyverse’s dplyr to generate complex SQL code in our data warehouse [[link]](https://medium.com/aclu-tech-analytics/dbplyr-a-path-to-more-inclusive-data-transformations-at-the-aclu-5e6af21f4042)
@@ -329,6 +347,7 @@ Create An API To Deploy Machine Learning Models Using Flask and Heroku [[link]](
 ## Bayesian inference
 - Python code [[link]](https://github.com/WillKoehrsen/ai-projects/blob/master/bayesian_inference/bayes_rule_applied.ipynb?source=post_page---------------------------)
 - Bayesian version of Does model averaging make sense? code in R [[link]](https://avehtari.github.io/modelselection/collinear.html#4_variable_selection)
+- Intro read to Bayesian inference algos [[link]](https://t.co/gYZIRwbopD?amp=1)
 
 ## Code Training
 - CodeWars (https://www.codewars.com/?language=python)
@@ -377,6 +396,11 @@ Make a Readme [[link]](https://www.makeareadme.com/)
 - BW data engineering guide [[link]](https://github.com/quinn-dougherty/build-week-survival-guide-data-engineering-machine-learning/blob/master/data-engineering-README.md)
 
 ## The Job Search...
+- https://madewithml.com
+- tips for analyst applications [[link]](https://twitter.com/AngeBassa/status/1250042895169728512)
+    - Sharing anecdotes in your cover letter about how you have experience solving the kinds of problems the job posting outlines is Thumbs up. You don’t have to have excelled at everything, though. Tell us how it went poorly, what you learned from it. Tell us about great outcomes too.
+    - Reach farther than you think you can, credibly. Show us how you’ve taken on big challenges and learned from them. Show us how you approach problems and think through solving them.
+    - It’s a small community. If I think you have a great application but it’s just not a good fit for our specific needs, I’ll forward it to folks I know who are also looking. But if you send us a cookie cutter form, then it’s less likely it’ll make an impression.
 - Takehomes (how the company grades)
     - catch natural outliers or edge cases that the company deals with day to day [[link]](https://opendatascience.com/data-driven-interviewing-hiring-a-data-scientist/?utm_campaign=Newsletters&utm_source=hs_email&utm_medium=email&utm_content=86384139&_hsenc=p2ANqtz-_J7SUPatMDPqqo2kKfDnZlz3vxIec6WwUb7bs2nCtGygMdOk0CpFh9DgzmhIm1Lsyy3vW8yO8ExF-gkC8OyP8m2epEGw&_hsmi=86384139)
     - The rubric gives approximately equal weighting to coding, machine learning, and business know-how. [[link]](https://making.dia.com/hiring-data-scientists-a-classification-problem-456affe73592)
@@ -509,6 +533,10 @@ Follow up: design a better measure.
     -
 
 ## Interesting
+- Great read on getting ROI on ML production projects [[link]](https://www.oreilly.com/radar/what-you-need-to-know-about-product-management-for-ai/)
+- Python: f-string formatting cheatsheet [[link]](https://myshell.co.uk/blog/2018/11/python-f-string-formatting-cheatsheet/)
+- "highest quality" Jupyter notebook [[link]](https://t.co/LU1PSHNveW?amp=1)
+- concept drift is important to know in production interviews [[link]](https://twitter.com/deronaucoin/status/1249492469982453760)
 - becoming an 80th percentile ML-er [[link]](https://twitter.com/economeager/status/1187319678210920450)
     - very good refresher on ML concepts [[link]](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.31.2.87)
 - Creating sparklines [[link]](https://dzone.com/articles/python-3-create-sparklines-using-matplotlib)

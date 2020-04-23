@@ -5,6 +5,9 @@ date:   2019-06-10 00:33:40 -0400
 categories:
 ---
 
+0. Trans people aren't obligated to tell you if they're trans [[link]](https://twitter.com/damienxpat/status/1247746092814352384) 
+
+
 1.![spider_trans](/assets/img/spider trans.png)
 
 

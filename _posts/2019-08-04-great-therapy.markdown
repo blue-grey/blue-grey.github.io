@@ -25,6 +25,8 @@ In the tech crash of ‘00-‘02, I was super f’d. I was broke, desperate, and
 
 Almost every late 20s/early 30s millennial I know was finally getting their shit together. I could cry if I wasn’t so angry. [[link]](https://twitter.com/JayElHarris/status/1245458636123619330)
 
+Loneliness [[link]](https://twitter.com/selentelechia/status/1246635414976262145)
+
 
 ## Parenting
 Twitter thread on difficult relationship with dads [[link]](https://twitter.com/AJA_Cortes/status/1241744666627674112)
@@ -36,6 +38,13 @@ You can't save your kids from pain, there are no shortcuts [[link]](https://twit
 I think investing in ordering around your kids less is usually very high leverage for parental wellbeing. [[link]](https://twitter.com/diviacaroline/status/1251238932609503232)
 
 ## Uncategorized
+
+We’ll know we’re growing when we let God replace who we thought we’d be with who He thought we’d be. [[link]](https://twitter.com/bobgoff/status/1232678065664184320)
+
+If you feel that you're consistently falling behind relative to your planned work output, consider that instead of having a "productivity problem" you might just be bad at planning. [[link]](https://twitter.com/economeager/status/1252942946363674627)
+
+This moment of social distancing is pressuring a combo of stressors: difficulty of being with one's own thoughts, interruption of predictable routine/expanding uncertainty about the future, loss of material security, media overexposure, empathic overwhelm, etc. 2/ [[link]](https://twitter.com/jaysunkei/status/1242302919703179264)
+
 
 so like a lot of weird Millennial practices are ways to "prove" to yourself that you're having a good time [on secret threat of psychic-parental retribution], regardless of whether you're actually experiencing pleasure (release of tension) [[link]](https://twitter.com/qorprate/status/1252040449235341316)
 
