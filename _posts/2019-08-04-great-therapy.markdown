@@ -70,18 +70,77 @@ my partner teaching me to stop reading people's subtext and to operate like ther
 
 
 
-[Joe Hudson: Frameworks for Self-Development](https://www.youtube.com/watch?v=VyEoQy4rcBw)
-- progress is circular and linear
-- [thread](https://twitter.com/msutherl/status/1237453582665789440) I got it from
-- every epiphany is a rut
-- if you're on the path and going back and forth, you're making progress. it's a pendulation and it's useful.  
-- Emotional framework he uses:
-    - recognize you have emotions, and that there are subtleties in emotional states
+## [Joe Hudson: Frameworks for Self-Development](https://www.youtube.com/watch?v=VyEoQy4rcBw)
+- I got it from [thread](https://twitter.com/msutherl/status/1237453582665789440)
+
+David Beckworth's way of thinking about development
+- victim (being done to us)
+- manifester (doing things aka Tony Robbins)
+- channel (things being done through us)
+- being (it is us)
+- These steps: you can't get past manifester if you think you are doing it. Because self-development says you're "doing", you "should". If you can get past the "will", "should", then it's self-realization. Understanding yourself.
+    - To clarify the difference between manifester and channel:
+        - still the concept that you're doing it
+        - you have to drop, blame for yourself
+        - e.g. artists take drugs to reduce self-judgement, remove critical voice in head in order to create
+
+This ^ is a framework in general:
+- Frameworks are great but also a trap, they're a map but not the terrain
+- self-development is like a spiral
+- our paths are circular and linear
+- you can be in victim, manifester, and channel, not just graduated from manifester
+- at some point there's a dropping in wanting to know where you are on the path at all, because why would you want that when you can enjoy where you are?
+- we can convince ourselves we're in a different place too
+
+The benefits of self-development? Joy, ease. The cost? Might cost you everything, you can become very sensitive to what you're working on, be sensitive to dysfunction that you need to lean into and embrace that intensity (can be painful).
+- self development is considered a death
+- your ego has to go (positive and negative views of self)
+- a process of letting go vs. gaining something in order to get joy
+
+Frameworks:
+- every framework has its own trap
+- cognitive development frameworks
+    - spiral dynamics
+    - cosmic consciousness
+    - stages
+    - every epiphany is a rut
+        - a thought was helpful for understanding a concept, is also a rut just waiting to happen
+    - deconstruction is the best use of the intellect, to see through everything and move beyond what we can see
+- if you're intellectually driven, the intellectual road is the least helpful
+    - go emotional, the biggest impact is the quickest
+- your guide is internal knowing
+
+Very few emotional frameworks out there:
+- Bioenergetics, Alexander Lowen M.D framework
+- Another framework is unnamed and not written down anywhere:
+    - recognize you have emotions, and that there are subtleties in emotional states (not many recognize this, linear and circular)
     - we try to manage them (try to be happy, try not to get mad)
-    - get into inquiry about the emotions (most people don't get there): how dense is it? how does it move? stop resisting it.  
-    - now you can relate to your emotions differently (what happens if you treat your anger with deep loving care? what does it want?)
-    - get into the point of loving all your emotions!
-    - If we don't feel that emotion, we keep repeating that pattern you want to change in your life.
+    - get into inquiry about the emotions (most people don't get there): how dense is it? how does it move? stop resisting it. what is it physically like to have that emotion? where does it end?  
+    - now you can relate to your emotions differently (what happens if you treat your anger with deep loving care? what does it happen if you ignore it? what does it want? anger can be determination, clarity)
+    - get to the point of loving the emotional state you're in. you think that what you're trying to get to is happiness, no! it's more a joy in whatever state is happening. I'm sad and I fucking love it. that love transforms it into something that is it and is different.
+    - hence, this framework is about getting into the point of loving all your emotions
+    - If we don't feel that emotion, we keep repeating that pattern we want to change in our life. We were taught the opposite, to not feel our emotions.
+
+Pitfalls
+  - you're never done, looking for being done is detrimental
+  - trying, shoulds, wanting to get ahead actually slows you down, let go of that
+  - blame for anything is not useful
+  - people on the path, early on, they feel like they're making a lot progress but nothing's changed: but that's how we learn, we pendulate, we go back and forth and that is progress. this pendulation is useful.
+  - elation (re: success) is not progress. e.g. try to feel exactly how you felt when you were 20 and leaving for college, you can't remember that state. we're constantly comparing the state that we're in to a state we can't remember and that slows us down.
+  - right before a breakthrough, there's a lot of fear, the oh shit. you can't make sense of anything anymore. but that's a good sign.
+  - always point back to yourself as the source of wisdom!
+  - do not go with any teacher with any judgement
+
+Others
+- What is it like to sit down for ten minutes and enjoy the shit out of your breath?
+- Our trauma often leads us to fixing other people instead of fixing ourselves. The best work we can do for them is fix ourselves. The most compassionate thing is to find your own awakening
+- Your trauma needs to be loved as is, it doesn't need to be fixed.
+- Trauma was created in relationship, it can be healed by it. Instead of it being a source of shame, it can be loved.
+- Should you journal? Only if you enjoy it. If it challenges you from time to time, even better. Some friction is good to learn/love deeper
+- You can't get someone else to love themselves. Start with asking yourself how to love someone who doesn't love themselves. Meet people where they're at. Love them unconditionally, as that's what makes them love themselves.
+
+
+
 
 
 [Richard Rohr](https://cac.org/richard-rohr/richard-rohr-ofm/)
