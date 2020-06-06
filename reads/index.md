@@ -152,6 +152,8 @@ How to Live Safely in a Science Fictional Universe / Charles Yu
 
 Existential Kink / [Carolyn Elliott](https://twitter.com/celestialboon/status/1243254981513359364)
 
+Love's Work / Gillian Rose
+
 
 **Finance**
 
