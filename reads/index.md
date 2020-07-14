@@ -154,7 +154,9 @@ Existential Kink / [Carolyn Elliott](https://twitter.com/celestialboon/status/12
 
 Love's Work / Gillian Rose
 
-War & Peace / [Leo Tolstoy](https://apublicspace.org/news/detail/tolstoy-together)
+~~War & Peace / [Leo Tolstoy](https://apublicspace.org/news/detail/tolstoy-together)~~
+
+~~Spiritual Friendship / Wesley Hill~~
 
 
 **Finance**

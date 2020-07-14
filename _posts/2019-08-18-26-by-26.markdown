@@ -29,12 +29,14 @@ Detailed progress below this list.
 18. Watch more Asian cinema and shows [^b90ca913]
 19. Call my grandma at least biweekly
 20. Take more polaroids
-21. Maintain my side gig, or get a new one
+21. Maintain my side gig, or get a new one [^d55854af]
 22. Let go of past grievances, and craft new narratives around them [^24f2c6b1]
 23. Get comfortable with finances [^3ebaa2d7]
 24. ?
 25. Connect with friends regularly and consistently
 26. Be more comfortable writing and interacting online [^dc027ce5]
+
+[^d55854af]: Maintained current one, and co-founded a non-profit
 
 [^3ebaa2d7]: Yes, for the first time I maintained a trip budget, mostly looked at it/did not procrastinate, but even then was able to reconcile everything. Also went to see my bank to set up stuff so I didn't have to pay fees. Cut phone bill down to reduce costs. Chased TP for money owed!! Taxes next.
 
@@ -54,4 +56,4 @@ Detailed progress below this list.
 
 [^bc1e1c45]: NYFF's Parasite!
 
-[^fa3a87c9]: 23/52: Early Work (Andrew Martin); Where Reasons End (Yiyun Li); Year of Rest and Relaxation (Otessa Moshfegh); I Will Survive: Personal Gay, Lesbian, Bisexual & Transgender Stories in Singapore (Leow Yangfa, ed.); In Other Rooms, Other Wonders (Daniyal Mueenuddin); Fleishman Is in Trouble (Taffy Brodesser-Akner); Severance (Ling Ma); The White Card (Claudia Rankine); The Address Book (Sophie Callie); After the Last Sky: Palestinian Lives (Edward Said); Females (Andrea Long Chu); Serve the People! (Yan Lianke); On Earth We're Briefly Gorgeous (Ocean Vuong); The Memory Police (Yoko Ogawa); Uncanny Valley (Anna Wiener); Vengence is Mine, all Others Pay Cash (Eka Kurniawan); Kitchen Curse (Eka Kurniawan); Advice Not Given: A Guide to Getting Over Yourself (Mark Epstein); Sit Walk Stand (Watchman Nee); The Glass Hotel (Emily St. John Mandel); Disunited Nations (Peter Zeihan); Ms Ice Sandwich (Mieko Kawakami); The Invisibility Cloak (Ge Fei)
+[^fa3a87c9]: 25/52: Early Work (Andrew Martin); Where Reasons End (Yiyun Li); Year of Rest and Relaxation (Otessa Moshfegh); I Will Survive: Personal Gay, Lesbian, Bisexual & Transgender Stories in Singapore (Leow Yangfa, ed.); In Other Rooms, Other Wonders (Daniyal Mueenuddin); Fleishman Is in Trouble (Taffy Brodesser-Akner); Severance (Ling Ma); The White Card (Claudia Rankine); The Address Book (Sophie Callie); After the Last Sky: Palestinian Lives (Edward Said); Females (Andrea Long Chu); Serve the People! (Yan Lianke); On Earth We're Briefly Gorgeous (Ocean Vuong); The Memory Police (Yoko Ogawa); Uncanny Valley (Anna Wiener); Vengence is Mine, all Others Pay Cash (Eka Kurniawan); Kitchen Curse (Eka Kurniawan); Advice Not Given: A Guide to Getting Over Yourself (Mark Epstein); Sit Walk Stand (Watchman Nee); The Glass Hotel (Emily St. John Mandel); Disunited Nations (Peter Zeihan); Ms Ice Sandwich (Mieko Kawakami); The Invisibility Cloak (Ge Fei); War and Peace (Tolstoy); Spiritual Friendship (Wesley Hill)
