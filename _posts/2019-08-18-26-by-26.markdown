@@ -9,36 +9,54 @@ Deadline: Aug 10 2020
 Detailed progress below this list.
 
 26 by 26
-1. Gain 12lbs and hit 120+lbs
-2. Strength train 2-3 times a week consistently, focusing on upper body
+1. Gain 12lbs and hit 120+lbs [^be4b0472]
+2. Strength train 2-3 times a week consistently, focusing on upper body [^5db39016]
 3. Travel solo/mediation retreat [^cf4664b6]
 4. Attend a film festival [^bc1e1c45]
 5. Average 1 book a week [^fa3a87c9]
-6. Land a great job that leads to a career in data science
+6. Land a great job that leads to a career in data science [^10d2e98b]
 7. Get one art thing published digitally (e.g. http://sync.abue.io/)
 8. If I hit the fitness goal, get a tattoo
-9. Travel with and meet up with a long distance friend[^47ff5cfe]
+9. Travel with and meet up with a long distance friend [^47ff5cfe]
 10. Move out
 11. Buy a piece of art [^5b963e37]
-12. Learn to make ramen stock
+12. Learn to make ramen stock [^0f9ee301]
 13. Learn to make ice cream [^5193ccea]
-14. Have slow weekends
-15. Improve on sleep hygiene
-16. Only buy clothes that fit well, and don't buy duplicates of things
-17. Take care of my skin: moisturize, sunscreen, tactuopump
+14. Have slow weekends [^450b2a9f]
+15. Improve on sleep hygiene [^93f62b45]
+16. Only buy clothes that fit well, and don't buy duplicates of things [^f1bf57e7]
+17. Take care of my skin: moisturize, sunscreen, tactuopump [^ed8aa12b]
 18. Watch more Asian cinema and shows [^b90ca913]
 19. Call my grandma at least biweekly
 20. Take more polaroids
 21. Maintain my side gig, or get a new one [^d55854af]
 22. Let go of past grievances, and craft new narratives around them [^24f2c6b1]
 23. Get comfortable with finances [^3ebaa2d7]
-24. ?
-25. Connect with friends regularly and consistently
+24.
+25. Connect with friends regularly and consistently [^91adba78]
 26. Be more comfortable writing and interacting online [^dc027ce5]
+
+[^91adba78]: called friends much more regularly than before :)
+
+[^ed8aa12b]: pretty consistent with moisterizing everyday
+
+[^f1bf57e7]: purchased less than previous year
+
+[^93f62b45]: sleep has improved immensely due to: 8 hours (before midnight), sleeping mask, no caffeine, no alcohol, cbd oil
+
+[^450b2a9f]: towards mid summer, created a "no work on Sundays" rule
+
+[^0f9ee301]: mastered tantanmen
+
+[^10d2e98b]: achieved in May :)
+
+[^be4b0472]: High of 110 pounds
+
+[^5db39016]: maybe achieved this 40-50%?
 
 [^d55854af]: Maintained current one, and co-founded a non-profit
 
-[^3ebaa2d7]: Yes, for the first time I maintained a trip budget, mostly looked at it/did not procrastinate, but even then was able to reconcile everything. Also went to see my bank to set up stuff so I didn't have to pay fees. Cut phone bill down to reduce costs. Chased TP for money owed!! Taxes next.
+[^3ebaa2d7]: Yes, for the first time I maintained a trip budget, mostly looked at it/did not procrastinate, but even then was able to reconcile everything. Also went to see my bank to set up stuff so I didn't have to pay fees. Cut phone bill down to reduce costs. Chased TP for money owed!! Did taxes.
 
 [^dc027ce5]: Yep. Perfected my personal website; published ML article with others in the pipeline; thanked creators for their work/impact. Also cold-emailing + networking tons.
 
@@ -46,13 +64,13 @@ Detailed progress below this list.
 
 [^b90ca913]: So far: Parasite, Burning, Korean zombie tv series lol
 
-[^5193ccea]: Made vanilla bean for the first time!
+[^5193ccea]: Made vanilla bean for the first time! Also vegan pumpkin pie, blueberry lemon, earl grey tea
 
 [^5b963e37]: I got a custom designed t-shirt from a Toronto-based artist to support COVID layoffs
 
-[^cf4664b6]: Lowkey the two weeks of quarantine (silent retreat) felt...transformational
+[^cf4664b6]: Lowkey the two weeks of quarantine after coming back from Europe in March/April (silent retreat) felt...transformational. Then I did a self-designed monastic retreat in Toronto for 7 weeks with a cat named Monk where I reflected, formed community with neighbours, volunteered intensively, took many long walks, worked out with a trainer, ate food from the backyard garden and learnt new recipes, caught up with former colleagues and friends, and spent many summer nights sitting on the balcony listening to music and friends talk. 
 
-[^47ff5cfe]: I visited MH & friends in Cologne & London!
+[^47ff5cfe]: I visited MH & friends in Cologne & London. M visited Kingston for a day in September before he moved to NYC.
 
 [^bc1e1c45]: NYFF's Parasite!
 
