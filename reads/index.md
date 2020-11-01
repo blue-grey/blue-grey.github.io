@@ -10,7 +10,7 @@ title: Reads
 
 Aspiration / Agnes Callard
 
-Late in the Day / Tessa Hadley
+~~Late in the Day / Tessa Hadley~~ tried this, couldn't stand the writing style
 
 The Man Who Solved The Market /
 
@@ -146,7 +146,7 @@ The Ragamuffin Gospel / Brennan Manning
 
 ~~The Glass Hotel / Emily St. John Mandel~~ Unexpectedly meditative read on financial crimes.
 
-New Waves / Kevin Nguyen
+~~New Waves / Kevin Nguyen~~ Terrible book, mood affiliated, treats identity as tropes etc
 
 How to Live Safely in a Science Fictional Universe / Charles Yu
 
@@ -156,7 +156,35 @@ Love's Work / Gillian Rose
 
 ~~War & Peace / [Leo Tolstoy](https://apublicspace.org/news/detail/tolstoy-together)~~
 
-~~Spiritual Friendship / Wesley Hill~~
+~~Spiritual Friendship / Wesley Hill~~ a manual for reviving an ancient and forgotten form of friendship as covenantal
+
+~~The Turn of the Screw / Henry James~~ lovely book club reflections [[here]](https://apublicspace.org/news/detail/aps-together)
+
+~~City of Glass / Paul Auster~~ pretty terrifying, didn't understand it
+
+~~Being Christian / Rowan Williams~~ 101, not bad but a bit basic
+
+~~Kitchen Confidential / Anthony Bourdain~~ learnt so much about one of the most important, but also most hidden, industries
+
+~~Wounded Prophet: A Portrait of Henri J. M. Nouwen / Michael Ford~~ this was so rich, I want to reach out to the author to thank him for putting this together so carefully
+
+~~A Ray of Darkness / Rowan Williams~~ chapters 26 onwards are really excellent
+
+~~Topics of Conversation / Miranda Popkey~~ lovely cover, interesting book, pretty similar to Normal People except older
+
+
+
+The Inner Voice of Love / Henri J. M. Nouwen
+
+My Brilliant Friend / Elena Ferrante~~ complexities of female friendship, origin stories, best novel I've read in years. the ending killed me
+
+A History of Pictures / David Hockney & Martin Gaylord~~ They were very careful to call it a history of pictures, rather than art, for reasons outlined in the intro. This book should be on every kid's book shelf. So accessible (we should all be reading more picture books) and plenty of paintings for Hockney fans.
+
+Pond / Claire-Louise Bennett
+
+Spiritual Direction / Henri J. M. Nouwen
+
+
 
 
 **Finance**
