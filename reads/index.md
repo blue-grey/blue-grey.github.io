@@ -154,6 +154,8 @@ Existential Kink / [Carolyn Elliott](https://twitter.com/celestialboon/status/12
 
 Love's Work / Gillian Rose
 
+~~Impro / Keith Johnston~~ really different and fascinating
+
 ~~War & Peace / [Leo Tolstoy](https://apublicspace.org/news/detail/tolstoy-together)~~
 
 ~~Spiritual Friendship / Wesley Hill~~ a manual for reviving an ancient and forgotten form of friendship as covenantal
@@ -172,17 +174,21 @@ Love's Work / Gillian Rose
 
 ~~Topics of Conversation / Miranda Popkey~~ lovely cover, interesting book, pretty similar to Normal People except older
 
+~~The Inner Voice of Love / Henri J. M. Nouwen~~ the best
 
+~~My Brilliant Friend / Elena Ferrante~~ complexities of female friendship, origin stories, best novel I've read in years. the ending killed me
 
-The Inner Voice of Love / Henri J. M. Nouwen
-
-My Brilliant Friend / Elena Ferrante~~ complexities of female friendship, origin stories, best novel I've read in years. the ending killed me
-
-A History of Pictures / David Hockney & Martin Gaylord~~ They were very careful to call it a history of pictures, rather than art, for reasons outlined in the intro. This book should be on every kid's book shelf. So accessible (we should all be reading more picture books) and plenty of paintings for Hockney fans.
+~~A History of Pictures / David Hockney & Martin Gaylord~~ They were very careful to call it a history of pictures, rather than art, for reasons outlined in the intro. This book should be on every kid's book shelf. So accessible (we should all be reading more picture books) and plenty of paintings for Hockney fans.
 
 Pond / Claire-Louise Bennett
 
-Spiritual Direction / Henri J. M. Nouwen
+~~Spiritual Direction / Henri J. M. Nouwen~~
+
+Cold Mountain / Charles Frazier
+
+Giovanni's Room / James Baldwin
+
+The Bell Jar / Sylvia Plath
 
 
 
