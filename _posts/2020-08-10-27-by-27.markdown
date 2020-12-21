@@ -11,25 +11,32 @@ Detailed progress below this list.
 27 by 27
 1. Read 1 "great book", and 20 other books (maximum) [^fa3a87c9]
 2. Maintain current weight and increase 5lbs
-3. Write daily for at least 30 minutes
+3. If I hit the fitness goal, get a tattoo
+3. Write daily for at least 30 minutes [^c903bfc3]
 4. Automate finances (savings, investments, donations)
 5. No work on Sundays, every Sunday
-6. A daily meditative practice
+6. Try a meditation retreat (Willow?)
 7. Get one art thing published digitally (e.g. http://sync.abue.io/)
-8. If I hit the fitness goal, get a tattoo
-9. Lead Bible study at least once
-10. Master 1-10 new recipes[^db2d7591]
+9. Lead Bible study at least once [^96fcb62a]
+10. Master 1-10 new recipes [^db2d7591]
 11. Buy a piece of art
 12. Target a monthly educational stipend
 13. Continue to volunteer in-person where possible, remotely too
 14. Narrow down options for graduate school or next steps in career
-15. Go blonde
-16. Take regular Chinese lessons to achieve HSK level ?
-17.
-18.
+15. Go blonde [^0628e11b]
+16. Take regular Chinese lessons to achieve a higher HSK level?
+17. Get a pen pal [^5e189e53]
+18. Do 2021 goals with a buddy
+19. Be more decisive
 
-[^db2d7591]: mapo tofu, basque burnt cheesecake, auntie gwen's pumpkin pie,
+[^0628e11b]: shortly after my birthday :)
 
+[^96fcb62a]: Filled in for D, led the first paragraph of James :)
 
+[^c903bfc3]: Joined a virtual daily writing club in November
 
-[^fa3a87c9]: 4/?: The Inner Voice of Love (Henri J. M. Nouwen); My Brilliant Friend (Elena Ferrante); A History of Pictures (David Hockney & Martin Gaylord); Pond (Claire-Louise Bennett); Spiritual Direction (Henri J. M. Nouwen)
+[^5e189e53]: H, then the UPS data visualization one
+
+[^db2d7591]: mapo tofu, basque burnt cheesecake, auntie gwen's pumpkin pie, korean pancake
+
+[^fa3a87c9]: 6/?: The Inner Voice of Love (Henri J. M. Nouwen); My Brilliant Friend (Elena Ferrante); A History of Pictures (David Hockney & Martin Gaylord); Pond (Claire-Louise Bennett); Spiritual Direction (Henri J. M. Nouwen); Giovanni's Room (James Baldwin); Cold Mountain (Charles Frazier)
