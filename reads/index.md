@@ -184,9 +184,11 @@ Pond / Claire-Louise Bennett
 
 ~~Spiritual Direction / Henri J. M. Nouwen~~
 
-Cold Mountain / Charles Frazier
+~~Cold Mountain / Charles Frazier~~
 
-Giovanni's Room / James Baldwin
+~~Giovanni's Room / James Baldwin~~ Incredibly moving and beautifully written: "Life gives these and also takes them away and the great difficulty is to say Yes to life."
+
+~~The Spy Who Came in from the Cold / John le Carré~~ A perfect spy novel. 
 
 The Bell Jar / Sylvia Plath
 
